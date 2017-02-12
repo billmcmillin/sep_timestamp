@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#original csv is large, so don't include it
+Crime_Incidents.csv
+
 # C extensions
 *.so
 
