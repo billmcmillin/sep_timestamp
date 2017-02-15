@@ -1,0 +1,173 @@
+2151-00 (90,RUNAWAY
+2903 -11,11A1  (13A) - Felonious Assault _ victim seriously harmed (Aggravated Assault)
+2903-00,Justifiable Homicide (Not a Crime)
+2903-01,"Aggravated Murder _ while committing or attempting to commit, or fleeing while committing or attempting to commit listed offenses (Aggravated Assault)"
+2903-01  (09,Aggravated Murder - (Willful Killing)
+2903-01 (09,AGGRAVATED MURDER -(Willful Killing)
+2903-01 (13,Aggravated Murder -(Aggravated Assault)
+2903-02  (09,Murder -(Willful Killing)
+2903-02 (09,MURDER -(Willful Killing)
+2903-02 (13,Murder -(Aggravated Assault)
+2903-03 (09,VOLUNTARY MANSLAUGHTER -(Willful Killing)
+2903-04,Involuntary Manslaughter _ result of misdemeanor (Willful Killing)
+2903-04 (09,Involuntary Manslaughter -(Willful Killing)
+2903-041 (09,RECKLESS HOMICIDE -(Willful Killing)
+2903-041 (13,RECKLESS HOMICIDE -(Aggravated Assault)
+2903-05 (09,NEGLIGENT HOMICIDE
+2903-06 (90,AGGRAVATED VEHICULAR HOMICIDE VEHICULAR HOMICIDE VEHICULAR MANSLAUGHTER
+2903-08 (13,AGGRAVATED VEHICULAR ASSAULT VEHICULAR ASSAULT
+2903-11,Felonious Assault _ victim seriously harmed (Aggravated Assault)
+2903-11  (13,Felonious Assault -(Aggravated Assault)
+2903-11 (13,Felonious Assault -(Aggravated Assault)
+2903-12,Aggravated Assault _ weapon or ordnance
+2903-12  (13,Aggravated Assault
+2903-12 (13,AGGRAVATED ASSAULT
+2903-13,Assault _ knowingly harm victim (Simple Assault)
+2903-13  (13,Assault -(Simple Assault)
+2903-13 (13,ASSAULT -(Simple Assault)
+2903-14 (13,NEGLIGENT ASSAULT -(Simple Assault)
+2903-16 (90,FAILURE TO PROVIDE FOR A FUNCTIONALLY IMPAIRED PERSON
+2903-21 (13,AGGRAVATED MENACING
+2903-211 (13,MENACING BY STALKING
+2903-22 (13,MENACING
+2903-34,Patient Abuse Neglect_abuse (Simple Assault)
+2903-34 (13,PATIENT ABUSE NEGLECT -(Simple Assault)
+2905-01,"Kidnapping _ ransom, shield, hostage"
+2905-01 (100) -,Kidnapping
+2905-02,Abduction _ remove from place found
+2905-02 (100) -,ABDUCTION
+2905-03 (100) -,UNLAWFUL RESTRAINT
+2905-05 (100) -,Criminal Child Enticement
+2905-11 (210) -,Extortion
+2907-02,Rape _ substantially impair judgment (Statutory Rape)
+2907-02 (11,Rape -(Forcible Rape)
+2907-02 (13,RAPE -(Simple Assault)
+2907-02 (36,RAPE -(Incest)
+2907-03,Sexual Battery _ victim control impaired (Forcible Rape)
+2907-03 (11,SEXUAL BATTERY -(Forcible Rape)
+2907-03 (13,SEXUAL BATTERY -(Simple Assault)
+2907-03 (36,SEXUAL BATTERY -(Statutory Rape)
+2907-04 (11,Unlawful Sexual Conduct with a Minor -(Forcible Sodomy)
+2907-04 (13,UNLAWFUL SEXUAL CONDUCT WITH A MINOR -(Simple Assault)
+2907-04 (36,Unlawful Sexual Conduct with a Minor -(Statutory Rape)
+2907-05,"Gross Sexual Imposition _ victim 13, statutory"
+2907-05 (11,Gross Sexual Imposition
+2907-06,Sexual Imposition _ offensive contact
+2907-06 (11,SEXUAL IMPOSITION
+2907-07 (90,IMPORTUNING
+2907-08 (90,VOYEURISM
+2907-09,Public Indecency _ exposure
+2907-09 (90,PUBLIC INDECENCY
+2907-31,"Disseminate Matter Harmful to Juveniles _ allow juvenile to review, etc-"
+2907-31 (370) -,Disseminate Matter Harmful to Juveniles
+2907-321 (370) -,Pandering Obscenity Involving a Minor
+2907-323 (370) -,Illegal Use of a Minor in Nudity Oriented Material
+2909-02 (200) -,AGGRAVATED ARSON
+2909-03,Arson _ property of another
+2909-04 (90,DISRUPTING PUBLIC SERVICE
+2909-05,"Vandalism _ property used for business, $500 or more in value"
+2909-05 (290) -,Vandalism
+2909-05 (290) - ,Vandalism
+2909-06,Criminal Damaging/Endangering _ knowingly any means
+2909-06 (290) -,CRIMINAL DAMAGING/ENDANGERING
+2909-06 (290) - ,Criminal Damaging/Endangering
+2909-07,"Criminal Mischief _ move, deface, tamper, etc-property of another"
+2909-07 (290) -,Criminal Mischief
+2909-07 (290) - ,Criminal Mischief
+2909-09,"Vehicular vandalism _ drop or throw any object at, onto, or in the path of any vehicle, street car, or trackless trolley on a highway"
+2909-09 (290) -,VEHICULAR VANDALISM
+2911-01,"Aggravated Robbery _ deadly weapon on or about suspect, control, display, brandish, indicate possession, or use weapon-"
+2911-01 (120) -,Aggravated Robbery
+2911-01 (120) - ,Aggravated Robbery
+2911-02,"Robbery _ deadly weapon, dangerous ordnance on or about suspect or under suspects control"
+2911-02 (120) -,ROBBERY
+2911-02 (120) - ,Robbery
+2911-11,Aggravated Burglary _ armed w/ deadly weapon/dangerous ordnance
+2911-11 (220) -,AGGRAVATED BURGLARY
+2911-11 (220) - ,Aggravated Burglary
+2911-12,"Burglary _ trespass in occupied structure, separately secured structure, or separately occupied portion of an occupied structure when another person is present, with purpose to commit any criminal offense-"
+2911-12 (220) -,Burglary
+2911-12 (220) - ,Burglary
+2911-13,Breaking and Entering _ commit felony/land premises of another
+2911-13 (220) -,BREAKING AND ENTERING
+2911-13 (220) - ,Breaking and Entering
+2911-21 (90,CRIMINAL TRESPASS
+2911-211 (90,AGGRAVATED TRESPASS
+2911-31 ,2911-31 SAFECRACKING
+2911-31 (90,Safecracking
+2911-32  (90,Tampering w/ Coin Machines
+2911-32 (290) -,TAMPERING W/ COIN MACHINES -DESTRUCTION/DAMAGE
+2911-32 (290) - ,Tampering w/ Coin Machines - Destruction/Damage
+2911-32 (90,Tampering w/ Coin Machines
+2913-00 (26,WIRE FRAUD
+2913-02,Theft _ without consent (All Other Larceny)
+2913-02 (23,THEFT -(From Motor Vehicle)
+2913-02 (24,THEFT OF LICENSE PLATE
+2913-03,Unauthorized Use of Motor Vehicle _ joy riding
+2913-03  (90,Unauthorized Use of Motor Vehicle
+2913-03 (90,UNAUTHORIZED USE OF MOTOR VEHICLE
+2913-04,Unauthorized Use of Property _ general
+2913-04  (90,Unauthorized Use of Property
+2913-04 (90,UNAUTHORIZED USE OF PROPERTY
+2913-041,Possession or Sale of Unauthorized Cable Television Device _ possess
+2913-041 (26,Possession or Sale of Unauthorized Cable Television Device
+2913-05 (26,TELECOMMUNICATIONS FRAUD
+2913-06 (26,Unlawful Use of Telecommunications Device
+2913-11 (90,PASSING BAD CHECKS
+2913-21,Misuse of Credit Card _ obtain by deception
+2913-21 (26,MISUSE OF CREDIT CARD
+2913-31,"Forgery _ copy, not genuine"
+2913-31 (250) -,FORGERY
+2913-32 (250) -,CRIMINAL SIMULATION
+2913-32 (250) - ,Criminal Simulation
+2913-41,Defrauding a Livery or Hostelry _ failed to pay
+2913-41 (26,DEFRAUDING A LIVERY OR HOSTELRY (non-vehicular)
+2913-42 (26,TAMPERING W/ RECORDS
+2913-44 (26,Personating an Officer
+2913-46 (26,Illegal Use of Food Stamps or WIC Program Benefits
+2913-47 (26,Insurance Fraud
+2913-49 (26,IDENTITY FRAUD
+2913-51 (280) -,Receiving Stolen Property
+"2913,45 (26",Defrauding Creditors
+2917-11,Disorderly Conduct _ fighting or threatening
+2917-11 (90,Disorderly Conduct
+2917-21,"Telecommunications Harassment _ anonymous, harassing, etc-"
+2917-21  (90,Telecommunications Harassment
+2917-21 (90,Telecommunications Harassment
+2917-31 (90,INDUCING PANIC
+2917-32,Making False Alarms _ initiate/circulate report or warning
+2917-32 (90,Making False Alarms
+2919-22,Endangering Children _ create substantial risk of harm -(Aggravated Assault)
+2919-22 (13,ENDANGERING CHILDREN
+2919-222 (90,Parental Education Neglect
+2919-23,Interference w/ Custody _ 18 or mentally handicapped 21
+2919-23 (90,Interference w/ Custody
+2919-24 (90,Contributing to the Unruliness/Delinquency of a Child
+2919-25,Domestic Violence _ knowingly cause physical harm (Simple Assault)
+2919-25 (13,Domestic Violence -(Simple Assault)
+2919-27,Violate Protection Order or Consent Agreement _ pursuit to 2903-213 or 2903-214
+2919-27 (90,VIOLATE PROTECTION ORDER OR CONSENT AGREEMENT
+2919.22 (13,ENDANGERING CHILDREN
+2921-02 (510) -,BRIBERY
+2921-03 (13,Intimidation
+2921-04,"Intimidation _ victim witness by force, threat"
+2921-04 (13,INTIMIDATION -CRIME VICTIM/WITNESS
+2921-13 (26,FALSIFICATION
+2921-31 (90,Obstructing Official Business
+2921-33 (90,RESISTING ARREST
+2921-331,Failure to Comply with Order or Signal of P-O-_ elude or flee
+2921-331 (90,Failure to Comply with Order or Signal of P-O-
+2921-41 (23,THEFT IN OFFICE
+2921-51,Impersonating a Peace Officer or Private Policeman_ facilitate commission of crime
+2921-51 (26,Impersonating a Peace Officer or Private Policeman
+2923-03 (90,Complicity
+2923-121 (520) -,Illegal Poss-of Firearm in Liquor Permit Premises
+2923-161,Improperly Discharging Firearm at or Into Habitation or School _ occupied structure
+2923-161 (520) -,IMPROPERLY DISCHARGING FIREARM AT OR INTO HABITATION OR SCHOOL
+2923-161 (520) - ,Improperly Discharging Firearm at or Into Habitation or School
+2923-162,"Discharge of Firearm On or Near Prohibited Premises _ on grounds appurtenant to school house, church, inhabited dwelling, property of another, or charitable institution"
+2923-162 (520) -,Discharge of Firearm On or Near Prohibited Premises
+2923-24 (90,Possessing Criminal Tools
+2925-22 (250) -,Deception to Obtain a Dangerous Drug
+2927-12 (13,Ethnic Intimidation
+2927-24 (90,"Contaminating Substance for Human Consumption or Use, Spreading False Report"
