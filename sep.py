@@ -3,7 +3,7 @@ import time
 import datetime
 
 with open('Crime_Incidents_Condensed.csv', mode='r') as infile:
-	with open('Crime_Incidents_Cleaned_14-16.csv', mode='w') as outfile:
+	with open('Crime_Incidents_Cleaned_Dist1_All.csv', mode='w') as outfile:
 		writer = csv.writer(outfile)
 		reader = csv.reader(infile)
                 headers = 0
@@ -26,7 +26,8 @@ with open('Crime_Incidents_Condensed.csv', mode='r') as infile:
                         row[19] = tstamp.time()
                         row[20] = tstamp.hour
                         row[21] = block
-                        if row[14] == 2016 or row[14] == 2015 or row[14] == 2014:
+                        #if row[14] == 2016 or row[14] == 2015 or row[14] == 2014:
+                        if row[9] == '1':
                             print row
                             writer.writerow(row)
         outfile.close()
