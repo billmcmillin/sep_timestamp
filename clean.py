@@ -18,55 +18,65 @@ with open(fi, mode='r') as infile:
 			outliers_writer = csv.writer(outliers)
 			writer = csv.writer(outfile)
 			reader = csv.reader(infile)
-			i = 1	
+			i = 0	
 			for row in reader:
 				i += 1
 				#row[0] = CASE_REPORT_NO 
 				if row[0] == '': 
-					print 'null case' + str(i)
+					#print 'null case' + str(i)
 					outliers_writer.writerow(row)	
 					continue
 				else:
 					#make sure it's only utf-8 with no leading or trailing spaces
 					row[0] = printable(row[0]).strip()
 				if row[1] == '': 
-					print 'null case' + str(i)					
+					#print 'null case' + str(i)					
 					outliers_writer.writerow(row)	
 					continue
 				else:
 					row[1] = printable(row[1]).strip()
 				if row[2] == '': 
-					print 'null case' + str(i)
+					#print 'null case' + str(i)
 					outliers_writer.writerow(row)
 					continue
 				else:
 					row[2] = printable(row[2]).strip()
-				if row[3] == '': 
-					print 'null case' + str(i)
+				#check for a valid timestamp	
+				try:
+					tm = time.strptime(row[3], "%Y-%m-%d %H:%M")
+				except ValueError:
+					tm = ''	
+				if tm == '': 
+					print 'null time' + str(i)
 					outliers_writer.writerow(row)
 					continue
 				else:
-					row[3] = printable(row[3]).strip()
-				if row[4] == '': 
-					print 'null case' + str(i)
+					row[3] = printable(row[3]).strip() 
+				#check for a valid timestamp	
+				try:
+					tm = time.strptime(row[4], "%Y-%m-%d %H:%M")
+				except ValueError:
+					tm = ''	
+				if tm == '': 
+					print 'null time' + str(i)
 					outliers_writer.writerow(row)
 					continue
 				else:
-					row[4] = printable(row[4]).strip()
+					row[4] = printable(row[4]).strip() 
 				if row[5] == '': 
-					print 'null case' + str(i)
+					#print 'null case' + str(i)
 					outliers_writer.writerow(row)
 					continue
 				else:
 					row[5] = printable(row[5]).strip()
 				if row[6] == '': 
-					print 'null case' + str(i)
+					#print 'null case' + str(i)
 					outliers_writer.writerow(row)
 					continue
 				else:
 					row[6] = printable(row[6]).strip()
 				if row[7] == '': 
-					print 'null case' + str(i)
+					#print 'null case' + str(i)
 					outliers_writer.writerow(row)
 					continue
 				else:
@@ -87,15 +97,34 @@ with open(fi, mode='r') as infile:
 				else:
 					row[9] = printable(row[9]).strip()
 				#reporting area
-				if row[10] == '':
+				try: 
+					repArea = int(row[10])
+				except:
+					print "invalid value"	
+				if repArea == '':
 					print 'null case' + str(i)
 					outliers_writer.writerow(row)
 					continue
 				else:
 					row[10] = printable(row[10]).strip()
-						
-
-
+				neighb = row[11].lower()
+				if neighb == '':
+					outliers_writer.writerow(row)
+					continue
+				else:
+					row[11] = printable(neighb).strip()
+				if row[12] == '':
+					outliers_writer.writerow(row)
+					continue
+				else:
+					row[12] = printable(row[12]).strip()
+				#row 13 has lots of null values, leave it alone
+				for n in range(14,21):
+					if row[n] == '':
+						outliers_writer.writerow(row)
+						continue
+					else:
+						row[n] = printable(row[n]).strip()
 				writer.writerow(row)	
 		outliers.close()		
 	outfile.close()
