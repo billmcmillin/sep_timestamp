@@ -20,6 +20,8 @@ with open(fi, mode='r') as infile:
 			reader = csv.reader(infile)
 			i = 0	
 			for row in reader:
+				if i == 0:
+					writer.writerow(row)
 				i += 1
 				#row[0] = CASE_REPORT_NO 
 				if row[0] == '': 
