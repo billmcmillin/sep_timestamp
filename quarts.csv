@@ -1,0 +1,3889 @@
+year,month,neighborhood,crimes,murders,city_quart,neighb_quar
+2014,2,c. b. d. / riverfront,97,0,4,1
+2014,2,west  end,63,0,4,1
+2014,2,east  westwood,11,0,1,1
+2014,2,camp  washington,23,0,2,2
+2014,2,east price hill,70,0,4,1
+2014,2,avondale,66,0,4,1
+2014,2,mount airy,45,0,4,1
+2014,2,mount  auburn,32,0,3,1
+2014,2,west price hill,118,0,4,1
+2014,2,sedamsville,8,0,1,1
+2014,2,westwood,217,0,4,1
+2014,2,over-the-rhine,98,0,4,1
+2014,2,evanston,37,1,3,1
+2014,2,s.. cumminsville,4,0,1,1
+2014,2,northside,64,0,4,1
+2014,2,winton hills,18,0,2,1
+2014,2,college  hill,75,0,4,2
+2014,2,madisonville,42,0,4,1
+2014,2,lower price  hill,21,0,2,2
+2014,2,o'bryonville,3,0,1,2
+2014,2,hyde park,29,0,3,2
+2014,2,riverside,10,0,1,1
+2014,2,mount  adams,7,0,1,1
+2014,2,pleasant ridge,25,0,3,1
+2014,2,roselawn,41,0,3,1
+2014,2,oakley,40,0,3,1
+2014,2,north fairmount,9,0,1,1
+2014,2,bondhill,31,0,3,1
+2014,2,south  fairmount,44,0,4,1
+2014,2,spring grove village,14,0,2,1
+2014,2,clifton,33,0,3,1
+2014,2,-,0,0,1,1
+2014,2,millvale,11,0,1,1
+2014,2,fairview,56,0,4,2
+2014,2,clifton/university heights,34,0,3,1
+2014,2,north avondale,29,0,3,1
+2014,2,walnut hills,66,1,4,1
+2014,2,corryville,34,0,3,1
+2014,2,east  end,17,0,2,2
+2014,2,east walnut hills,15,0,2,1
+2014,2,mt.  washington,31,0,3,1
+2014,2,columbia / tusculum,9,0,1,1
+2014,2,fay apartments,19,0,2,1
+2014,2,hartwell,21,0,2,1
+2014,2,queensgate,17,0,2,2
+2014,2,carthage,40,0,3,3
+2014,2,english  woods,7,0,1,1
+2014,2,kennedy  heights,17,0,2,1
+2014,2,sayler  park,9,0,1,1
+2014,2,mt.  lookout,14,0,2,2
+2014,2,california,6,0,1,4
+2014,2,paddock  hills,15,0,2,2
+2014,2,pendleton,5,0,1,1
+2014,2,linwood,9,0,1,4
+2014,8,c. b. d. / riverfront,134,0,4,3
+2014,8,west  end,112,1,4,4
+2014,8,east  westwood,16,0,1,2
+2014,8,camp  washington,31,0,2,4
+2014,8,east price hill,157,0,4,2
+2014,8,avondale,110,2,4,2
+2014,8,mount airy,59,0,3,1
+2014,8,mount  auburn,50,0,3,3
+2014,8,west price hill,184,0,4,3
+2014,8,sedamsville,13,0,1,3
+2014,8,westwood,268,0,4,2
+2014,8,over-the-rhine,140,0,4,3
+2014,8,evanston,67,0,4,3
+2014,8,s.. cumminsville,9,0,1,3
+2014,8,northside,84,0,4,3
+2014,8,winton hills,60,0,3,3
+2014,8,college  hill,89,0,4,3
+2014,8,madisonville,54,0,3,2
+2014,8,lower price  hill,17,0,1,1
+2014,8,o'bryonville,3,0,1,2
+2014,8,hyde park,34,0,2,2
+2014,8,riverside,16,0,1,3
+2014,8,mount  adams,33,0,2,4
+2014,8,pleasant ridge,37,0,3,2
+2014,8,roselawn,51,0,3,1
+2014,8,oakley,57,0,3,2
+2014,8,north fairmount,15,0,1,3
+2014,8,bondhill,57,0,3,2
+2014,8,south  fairmount,67,0,4,3
+2014,8,spring grove village,26,0,2,2
+2014,8,clifton,93,0,4,4
+2014,8,-,6,0,1,3
+2014,8,millvale,23,1,2,2
+2014,8,fairview,84,1,4,4
+2014,8,clifton/university heights,54,0,3,3
+2014,8,north avondale,46,0,3,3
+2014,8,walnut hills,115,1,4,3
+2014,8,corryville,48,0,3,3
+2014,8,east  end,25,0,2,4
+2014,8,east walnut hills,25,0,2,3
+2014,8,mt.  washington,64,0,3,4
+2014,8,columbia / tusculum,11,0,1,2
+2014,8,fay apartments,25,0,2,3
+2014,8,hartwell,26,0,2,2
+2014,8,queensgate,28,0,2,4
+2014,8,carthage,39,0,3,3
+2014,8,english  woods,18,0,2,3
+2014,8,kennedy  heights,17,0,1,1
+2014,8,sayler  park,28,0,2,4
+2014,8,mt.  lookout,8,0,1,1
+2014,8,california,7,0,1,4
+2014,8,paddock  hills,16,0,1,2
+2014,8,pendleton,17,0,1,4
+2014,8,linwood,4,0,1,1
+2014,6,c. b. d. / riverfront,154,0,4,4
+2014,6,west  end,89,0,4,3
+2014,6,east  westwood,8,0,1,1
+2014,6,camp  washington,21,0,2,2
+2014,6,east price hill,185,0,4,4
+2014,6,avondale,122,1,4,2
+2014,6,mount airy,74,0,4,2
+2014,6,mount  auburn,54,0,3,3
+2014,6,west price hill,188,0,4,3
+2014,6,sedamsville,14,0,1,3
+2014,6,westwood,284,0,4,3
+2014,6,over-the-rhine,149,0,4,3
+2014,6,evanston,61,0,3,3
+2014,6,s.. cumminsville,4,0,1,1
+2014,6,northside,86,1,4,3
+2014,6,winton hills,68,0,4,4
+2014,6,college  hill,97,0,4,4
+2014,6,madisonville,43,0,3,1
+2014,6,lower price  hill,36,1,2,4
+2014,6,o'bryonville,5,0,1,3
+2014,6,hyde park,33,0,2,2
+2014,6,riverside,14,0,1,3
+2014,6,mount  adams,15,0,2,3
+2014,6,pleasant ridge,37,0,3,2
+2014,6,roselawn,47,0,3,1
+2014,6,oakley,56,0,3,2
+2014,6,north fairmount,16,0,2,4
+2014,6,bondhill,63,0,4,3
+2014,6,south  fairmount,95,0,4,4
+2014,6,spring grove village,24,0,2,2
+2014,6,clifton,40,0,3,1
+2014,6,-,2,0,1,1
+2014,6,millvale,23,0,2,2
+2014,6,fairview,55,0,3,2
+2014,6,clifton/university heights,50,0,3,3
+2014,6,north avondale,43,0,3,2
+2014,6,walnut hills,111,1,4,3
+2014,6,corryville,43,0,3,2
+2014,6,east  end,14,0,1,1
+2014,6,east walnut hills,11,0,1,1
+2014,6,mt.  washington,41,0,3,2
+2014,6,columbia / tusculum,12,0,1,2
+2014,6,fay apartments,22,1,2,2
+2014,6,hartwell,35,0,2,4
+2014,6,queensgate,18,0,2,2
+2014,6,carthage,43,0,3,4
+2014,6,english  woods,12,0,1,1
+2014,6,kennedy  heights,24,0,2,3
+2014,6,sayler  park,21,0,2,3
+2014,6,mt.  lookout,12,0,1,2
+2014,6,california,8,0,1,4
+2014,6,paddock  hills,15,0,2,2
+2014,6,pendleton,13,0,1,2
+2014,6,linwood,12,0,1,4
+2014,9,c. b. d. / riverfront,128,0,4,2
+2014,9,west  end,105,0,4,4
+2014,9,east  westwood,18,0,1,2
+2014,9,camp  washington,22,0,2,2
+2014,9,east price hill,165,0,4,3
+2014,9,avondale,126,0,4,2
+2014,9,mount airy,90,0,4,4
+2014,9,mount  auburn,66,0,3,4
+2014,9,west price hill,183,1,4,3
+2014,9,sedamsville,18,0,1,4
+2014,9,westwood,294,0,4,3
+2014,9,over-the-rhine,140,0,4,3
+2014,9,evanston,51,0,3,2
+2014,9,s.. cumminsville,13,1,1,4
+2014,9,northside,76,0,4,3
+2014,9,winton hills,51,1,3,2
+2014,9,college  hill,78,0,4,2
+2014,9,madisonville,53,0,3,1
+2014,9,lower price  hill,23,0,2,2
+2014,9,o'bryonville,8,0,1,4
+2014,9,hyde park,39,0,3,3
+2014,9,riverside,9,0,1,1
+2014,9,mount  adams,16,0,1,3
+2014,9,pleasant ridge,48,0,3,4
+2014,9,roselawn,59,1,3,2
+2014,9,oakley,59,0,3,2
+2014,9,north fairmount,13,0,1,2
+2014,9,bondhill,77,1,4,4
+2014,9,south  fairmount,55,0,3,2
+2014,9,spring grove village,32,0,2,3
+2014,9,clifton,82,0,4,4
+2014,9,-,1,0,1,1
+2014,9,millvale,25,0,2,3
+2014,9,fairview,122,0,4,4
+2014,9,clifton/university heights,58,0,3,4
+2014,9,north avondale,35,0,3,1
+2014,9,walnut hills,98,0,4,2
+2014,9,corryville,72,0,3,4
+2014,9,east  end,26,0,2,4
+2014,9,east walnut hills,26,0,2,3
+2014,9,mt.  washington,47,0,3,3
+2014,9,columbia / tusculum,15,0,1,3
+2014,9,fay apartments,20,1,2,1
+2014,9,hartwell,25,0,2,2
+2014,9,queensgate,26,0,2,4
+2014,9,carthage,25,0,2,1
+2014,9,english  woods,16,0,1,2
+2014,9,kennedy  heights,28,0,2,4
+2014,9,sayler  park,19,0,2,3
+2014,9,mt.  lookout,16,0,1,3
+2014,9,california,1,0,1,1
+2014,9,paddock  hills,10,0,1,1
+2014,9,pendleton,20,0,2,4
+2014,9,linwood,7,0,1,3
+2014,5,c. b. d. / riverfront,160,0,4,4
+2014,5,west  end,92,2,4,3
+2014,5,east  westwood,18,0,2,2
+2014,5,camp  washington,14,0,1,1
+2014,5,east price hill,151,0,4,2
+2014,5,avondale,131,1,4,3
+2014,5,mount airy,74,1,4,2
+2014,5,mount  auburn,55,0,3,3
+2014,5,west price hill,171,0,4,2
+2014,5,sedamsville,13,0,1,3
+2014,5,westwood,267,0,4,2
+2014,5,over-the-rhine,176,0,4,4
+2014,5,evanston,62,1,3,3
+2014,5,s.. cumminsville,10,1,1,3
+2014,5,northside,74,0,4,2
+2014,5,winton hills,60,0,3,3
+2014,5,college  hill,110,0,4,4
+2014,5,madisonville,64,0,4,3
+2014,5,lower price  hill,31,0,2,4
+2014,5,o'bryonville,2,0,1,1
+2014,5,hyde park,40,0,3,3
+2014,5,riverside,16,0,1,3
+2014,5,mount  adams,21,0,2,4
+2014,5,pleasant ridge,40,0,3,3
+2014,5,roselawn,59,0,3,2
+2014,5,oakley,56,0,3,2
+2014,5,north fairmount,12,0,1,2
+2014,5,bondhill,53,0,3,2
+2014,5,south  fairmount,63,0,4,3
+2014,5,spring grove village,42,0,3,4
+2014,5,clifton,47,0,3,2
+2014,5,-,2,0,1,1
+2014,5,millvale,19,0,2,1
+2014,5,fairview,69,0,4,3
+2014,5,clifton/university heights,39,0,2,2
+2014,5,north avondale,52,0,3,4
+2014,5,walnut hills,83,0,4,1
+2014,5,corryville,40,0,3,2
+2014,5,east  end,12,0,1,1
+2014,5,east walnut hills,29,0,2,3
+2014,5,mt.  washington,41,0,3,2
+2014,5,columbia / tusculum,13,0,1,2
+2014,5,fay apartments,23,0,2,2
+2014,5,hartwell,29,0,2,3
+2014,5,queensgate,23,0,2,3
+2014,5,carthage,34,0,2,2
+2014,5,english  woods,12,1,1,1
+2014,5,kennedy  heights,20,0,2,2
+2014,5,sayler  park,24,0,2,4
+2014,5,mt.  lookout,15,0,1,3
+2014,5,california,1,0,1,1
+2014,5,paddock  hills,6,0,1,1
+2014,5,pendleton,16,0,1,3
+2014,5,linwood,4,0,1,1
+2014,3,c. b. d. / riverfront,122,0,4,2
+2014,3,west  end,80,0,4,2
+2014,3,east  westwood,16,1,2,2
+2014,3,camp  washington,14,0,1,1
+2014,3,east price hill,151,0,4,2
+2014,3,avondale,101,0,4,1
+2014,3,mount airy,68,0,4,2
+2014,3,mount  auburn,46,0,3,2
+2014,3,west price hill,157,0,4,1
+2014,3,sedamsville,6,0,1,1
+2014,3,westwood,261,0,4,2
+2014,3,over-the-rhine,115,1,4,1
+2014,3,evanston,47,0,3,1
+2014,3,s.. cumminsville,11,0,1,3
+2014,3,northside,87,0,4,3
+2014,3,winton hills,62,0,4,3
+2014,3,college  hill,86,0,4,3
+2014,3,madisonville,50,0,3,1
+2014,3,lower price  hill,24,0,2,3
+2014,3,o'bryonville,0,0,1,1
+2014,3,hyde park,32,0,3,2
+2014,3,riverside,7,0,1,1
+2014,3,mount  adams,17,0,2,3
+2014,3,pleasant ridge,34,0,3,2
+2014,3,roselawn,47,0,3,1
+2014,3,oakley,42,0,3,1
+2014,3,north fairmount,12,1,1,2
+2014,3,bondhill,50,0,3,1
+2014,3,south  fairmount,46,0,3,1
+2014,3,spring grove village,22,0,2,2
+2014,3,clifton,49,0,3,2
+2014,3,-,1,0,1,1
+2014,3,millvale,24,0,2,2
+2014,3,fairview,57,0,4,2
+2014,3,clifton/university heights,28,0,3,1
+2014,3,north avondale,33,0,3,1
+2014,3,walnut hills,78,1,4,1
+2014,3,corryville,35,0,3,1
+2014,3,east  end,23,0,2,3
+2014,3,east walnut hills,12,0,1,1
+2014,3,mt.  washington,26,0,2,1
+2014,3,columbia / tusculum,12,0,1,2
+2014,3,fay apartments,19,0,2,1
+2014,3,hartwell,19,0,2,1
+2014,3,queensgate,15,0,2,1
+2014,3,carthage,36,0,3,3
+2014,3,english  woods,12,0,1,1
+2014,3,kennedy  heights,15,0,2,1
+2014,3,sayler  park,19,0,2,3
+2014,3,mt.  lookout,14,0,1,2
+2014,3,california,2,0,1,2
+2014,3,paddock  hills,11,0,1,1
+2014,3,pendleton,11,0,1,1
+2014,3,linwood,13,0,1,4
+2014,11,c. b. d. / riverfront,116,0,4,1
+2014,11,west  end,62,0,4,1
+2014,11,east  westwood,18,0,2,2
+2014,11,camp  washington,19,0,2,1
+2014,11,east price hill,121,0,4,1
+2014,11,avondale,118,0,4,2
+2014,11,mount airy,99,0,4,4
+2014,11,mount  auburn,58,0,3,3
+2014,11,west price hill,137,0,4,1
+2014,11,sedamsville,10,0,1,2
+2014,11,westwood,306,0,4,3
+2014,11,over-the-rhine,100,0,4,1
+2014,11,evanston,50,0,3,2
+2014,11,s.. cumminsville,9,0,1,3
+2014,11,northside,61,0,4,1
+2014,11,winton hills,42,0,3,1
+2014,11,college  hill,71,0,4,1
+2014,11,madisonville,58,0,3,2
+2014,11,lower price  hill,23,0,2,2
+2014,11,o'bryonville,2,0,1,1
+2014,11,hyde park,38,0,3,3
+2014,11,riverside,10,0,1,1
+2014,11,mount  adams,10,0,1,2
+2014,11,pleasant ridge,31,0,3,1
+2014,11,roselawn,45,1,3,1
+2014,11,oakley,45,0,3,1
+2014,11,north fairmount,13,0,1,2
+2014,11,bondhill,54,0,3,2
+2014,11,south  fairmount,60,0,4,3
+2014,11,spring grove village,20,0,2,1
+2014,11,clifton,75,0,4,4
+2014,11,-,2,0,1,1
+2014,11,millvale,21,1,2,2
+2014,11,fairview,53,0,3,1
+2014,11,clifton/university heights,37,0,3,2
+2014,11,north avondale,39,0,3,1
+2014,11,walnut hills,90,0,4,1
+2014,11,corryville,44,0,3,2
+2014,11,east  end,13,0,1,1
+2014,11,east walnut hills,17,0,2,1
+2014,11,mt.  washington,37,0,3,2
+2014,11,columbia / tusculum,12,0,1,2
+2014,11,fay apartments,27,0,2,3
+2014,11,hartwell,26,0,2,2
+2014,11,queensgate,28,0,2,4
+2014,11,carthage,24,0,2,1
+2014,11,english  woods,19,0,2,3
+2014,11,kennedy  heights,17,0,2,1
+2014,11,sayler  park,20,0,2,3
+2014,11,mt.  lookout,10,0,1,1
+2014,11,california,1,0,1,1
+2014,11,paddock  hills,14,0,1,2
+2014,11,pendleton,10,0,1,1
+2014,11,linwood,5,0,1,2
+2014,12,c. b. d. / riverfront,110,1,4,1
+2014,12,west  end,86,0,4,2
+2014,12,east  westwood,24,0,2,4
+2014,12,camp  washington,32,0,2,4
+2014,12,east price hill,170,0,4,3
+2014,12,avondale,103,0,4,1
+2014,12,mount airy,65,0,4,1
+2014,12,mount  auburn,28,0,2,1
+2014,12,west price hill,133,0,4,1
+2014,12,sedamsville,17,0,2,4
+2014,12,westwood,307,0,4,3
+2014,12,over-the-rhine,111,0,4,1
+2014,12,evanston,56,0,3,2
+2014,12,s.. cumminsville,4,0,1,1
+2014,12,northside,66,0,4,2
+2014,12,winton hills,58,0,3,3
+2014,12,college  hill,71,0,4,1
+2014,12,madisonville,56,0,3,2
+2014,12,lower price  hill,14,0,1,1
+2014,12,o'bryonville,4,0,1,3
+2014,12,hyde park,41,0,3,3
+2014,12,riverside,10,0,1,1
+2014,12,mount  adams,11,0,1,2
+2014,12,pleasant ridge,41,0,3,3
+2014,12,roselawn,39,0,3,1
+2014,12,oakley,60,0,3,2
+2014,12,north fairmount,16,0,1,4
+2014,12,bondhill,72,0,4,4
+2014,12,south  fairmount,64,0,4,3
+2014,12,spring grove village,19,0,2,1
+2014,12,clifton,73,0,4,4
+2014,12,-,3,0,1,2
+2014,12,millvale,24,0,2,2
+2014,12,fairview,49,0,3,1
+2014,12,clifton/university heights,50,0,3,3
+2014,12,north avondale,38,0,3,1
+2014,12,walnut hills,97,0,4,2
+2014,12,corryville,51,0,3,3
+2014,12,east  end,15,0,1,1
+2014,12,east walnut hills,24,0,2,3
+2014,12,mt.  washington,42,0,3,2
+2014,12,columbia / tusculum,19,0,2,4
+2014,12,fay apartments,33,2,3,4
+2014,12,hartwell,15,0,1,1
+2014,12,queensgate,22,0,2,3
+2014,12,carthage,23,0,2,1
+2014,12,english  woods,22,0,2,4
+2014,12,kennedy  heights,19,0,2,2
+2014,12,sayler  park,12,0,1,1
+2014,12,mt.  lookout,8,0,1,1
+2014,12,california,0,0,1,1
+2014,12,paddock  hills,16,0,1,2
+2014,12,pendleton,13,0,1,2
+2014,12,linwood,1,0,1,1
+2014,7,c. b. d. / riverfront,150,1,4,4
+2014,7,west  end,58,0,3,1
+2014,7,east  westwood,13,0,1,1
+2014,7,camp  washington,25,0,2,3
+2014,7,east price hill,174,0,4,3
+2014,7,avondale,143,0,4,3
+2014,7,mount airy,76,0,4,3
+2014,7,mount  auburn,44,0,3,2
+2014,7,west price hill,211,0,4,4
+2014,7,sedamsville,17,0,1,4
+2014,7,westwood,323,0,4,4
+2014,7,over-the-rhine,134,0,4,2
+2014,7,evanston,66,0,4,3
+2014,7,s.. cumminsville,11,0,1,3
+2014,7,northside,71,0,4,2
+2014,7,winton hills,33,0,2,1
+2014,7,college  hill,87,0,4,3
+2014,7,madisonville,58,0,3,2
+2014,7,lower price  hill,30,0,2,4
+2014,7,o'bryonville,0,0,1,1
+2014,7,hyde park,42,0,3,4
+2014,7,riverside,15,0,1,3
+2014,7,mount  adams,17,0,1,3
+2014,7,pleasant ridge,50,0,3,4
+2014,7,roselawn,49,0,3,1
+2014,7,oakley,65,0,4,3
+2014,7,north fairmount,6,0,1,1
+2014,7,bondhill,37,0,3,1
+2014,7,south  fairmount,71,1,4,4
+2014,7,spring grove village,24,0,2,2
+2014,7,clifton,50,0,3,2
+2014,7,-,1,0,1,1
+2014,7,millvale,20,1,2,1
+2014,7,fairview,76,0,4,3
+2014,7,clifton/university heights,49,0,3,3
+2014,7,north avondale,46,0,3,3
+2014,7,walnut hills,109,0,4,3
+2014,7,corryville,38,0,3,2
+2014,7,east  end,19,0,2,2
+2014,7,east walnut hills,22,0,2,2
+2014,7,mt.  washington,52,0,3,3
+2014,7,columbia / tusculum,11,0,1,2
+2014,7,fay apartments,19,0,2,1
+2014,7,hartwell,45,0,3,4
+2014,7,queensgate,15,0,1,1
+2014,7,carthage,34,0,2,2
+2014,7,english  woods,19,0,2,3
+2014,7,kennedy  heights,31,0,2,4
+2014,7,sayler  park,19,0,2,3
+2014,7,mt.  lookout,7,0,1,1
+2014,7,california,1,0,1,1
+2014,7,paddock  hills,8,0,1,1
+2014,7,pendleton,14,0,1,2
+2014,7,linwood,4,0,1,1
+2014,10,c. b. d. / riverfront,104,0,4,1
+2014,10,west  end,103,0,4,4
+2014,10,east  westwood,19,0,2,2
+2014,10,camp  washington,14,0,1,1
+2014,10,east price hill,178,0,4,3
+2014,10,avondale,148,0,4,4
+2014,10,mount airy,72,0,4,2
+2014,10,mount  auburn,62,0,3,4
+2014,10,west price hill,193,0,4,3
+2014,10,sedamsville,6,0,1,1
+2014,10,westwood,308,0,4,3
+2014,10,over-the-rhine,165,0,4,4
+2014,10,evanston,56,0,3,2
+2014,10,s.. cumminsville,7,0,1,2
+2014,10,northside,81,0,4,3
+2014,10,winton hills,44,0,3,1
+2014,10,college  hill,87,0,4,3
+2014,10,madisonville,67,0,4,3
+2014,10,lower price  hill,18,0,2,2
+2014,10,o'bryonville,7,0,1,4
+2014,10,hyde park,37,0,3,3
+2014,10,riverside,6,0,1,1
+2014,10,mount  adams,28,0,2,4
+2014,10,pleasant ridge,36,0,3,2
+2014,10,roselawn,49,0,3,1
+2014,10,oakley,50,0,3,1
+2014,10,north fairmount,10,0,1,1
+2014,10,bondhill,65,0,3,3
+2014,10,south  fairmount,47,0,3,1
+2014,10,spring grove village,25,0,2,2
+2014,10,clifton,116,0,4,4
+2014,10,-,2,0,1,1
+2014,10,millvale,32,0,2,4
+2014,10,fairview,75,0,4,3
+2014,10,clifton/university heights,52,0,3,3
+2014,10,north avondale,40,0,3,2
+2014,10,walnut hills,89,0,4,1
+2014,10,corryville,62,0,3,4
+2014,10,east  end,20,0,2,3
+2014,10,east walnut hills,21,0,2,2
+2014,10,mt.  washington,34,0,3,1
+2014,10,columbia / tusculum,16,0,1,3
+2014,10,fay apartments,20,0,2,1
+2014,10,hartwell,14,0,1,1
+2014,10,queensgate,23,0,2,3
+2014,10,carthage,26,0,2,1
+2014,10,english  woods,20,0,2,3
+2014,10,kennedy  heights,26,0,2,4
+2014,10,sayler  park,10,0,1,1
+2014,10,mt.  lookout,12,0,1,2
+2014,10,california,4,0,1,3
+2014,10,paddock  hills,10,0,1,1
+2014,10,pendleton,16,0,1,3
+2014,10,linwood,5,0,1,2
+2014,1,c. b. d. / riverfront,95,0,4,1
+2014,1,west  end,58,0,4,1
+2014,1,east  westwood,9,0,1,1
+2014,1,camp  washington,28,0,2,3
+2014,1,east price hill,108,1,4,1
+2014,1,avondale,99,2,4,1
+2014,1,mount airy,63,0,4,1
+2014,1,mount  auburn,28,0,2,1
+2014,1,west price hill,113,0,4,1
+2014,1,sedamsville,12,0,1,2
+2014,1,westwood,267,0,4,2
+2014,1,over-the-rhine,104,1,4,1
+2014,1,evanston,46,1,3,1
+2014,1,s.. cumminsville,9,0,1,3
+2014,1,northside,66,0,4,2
+2014,1,winton hills,30,0,3,1
+2014,1,college  hill,70,0,4,1
+2014,1,madisonville,46,0,3,1
+2014,1,lower price  hill,15,0,1,1
+2014,1,o'bryonville,1,0,1,1
+2014,1,hyde park,20,0,2,1
+2014,1,riverside,7,0,1,1
+2014,1,mount  adams,10,0,1,2
+2014,1,pleasant ridge,23,0,2,1
+2014,1,roselawn,61,0,4,2
+2014,1,oakley,54,0,4,2
+2014,1,north fairmount,10,0,1,1
+2014,1,bondhill,26,0,2,1
+2014,1,south  fairmount,42,0,3,1
+2014,1,spring grove village,28,0,2,2
+2014,1,clifton,49,0,3,2
+2014,1,-,2,0,1,1
+2014,1,millvale,24,0,2,2
+2014,1,fairview,51,0,4,1
+2014,1,clifton/university heights,45,0,3,2
+2014,1,north avondale,42,0,3,2
+2014,1,walnut hills,76,0,4,1
+2014,1,corryville,34,0,3,1
+2014,1,east  end,28,0,2,4
+2014,1,east walnut hills,17,0,2,1
+2014,1,mt.  washington,25,0,2,1
+2014,1,columbia / tusculum,15,0,1,3
+2014,1,fay apartments,29,0,3,3
+2014,1,hartwell,25,0,2,2
+2014,1,queensgate,17,0,2,2
+2014,1,carthage,28,0,2,1
+2014,1,english  woods,6,1,1,1
+2014,1,kennedy  heights,22,0,2,3
+2014,1,sayler  park,17,0,2,2
+2014,1,mt.  lookout,17,0,2,3
+2014,1,california,2,0,1,2
+2014,1,paddock  hills,18,0,2,3
+2014,1,pendleton,4,0,1,1
+2014,1,linwood,4,0,1,1
+2014,4,c. b. d. / riverfront,133,0,4,2
+2014,4,west  end,84,0,4,2
+2014,4,east  westwood,20,0,2,3
+2014,4,camp  washington,19,0,2,1
+2014,4,east price hill,129,0,4,1
+2014,4,avondale,115,1,4,2
+2014,4,mount airy,77,0,4,3
+2014,4,mount  auburn,44,0,3,2
+2014,4,west price hill,161,0,4,1
+2014,4,sedamsville,13,0,1,3
+2014,4,westwood,290,2,4,3
+2014,4,over-the-rhine,120,0,4,2
+2014,4,evanston,55,0,3,2
+2014,4,s.. cumminsville,8,0,1,2
+2014,4,northside,63,0,4,1
+2014,4,winton hills,52,0,3,2
+2014,4,college  hill,100,0,4,4
+2014,4,madisonville,64,0,4,3
+2014,4,lower price  hill,26,0,2,3
+2014,4,o'bryonville,1,0,1,1
+2014,4,hyde park,46,0,3,4
+2014,4,riverside,10,0,1,1
+2014,4,mount  adams,13,0,1,2
+2014,4,pleasant ridge,28,0,2,1
+2014,4,roselawn,54,0,3,2
+2014,4,oakley,52,0,3,1
+2014,4,north fairmount,17,0,2,4
+2014,4,bondhill,63,0,4,3
+2014,4,south  fairmount,50,0,3,2
+2014,4,spring grove village,25,0,2,2
+2014,4,clifton,38,0,3,1
+2014,4,-,1,0,1,1
+2014,4,millvale,33,0,3,4
+2014,4,fairview,81,0,4,4
+2014,4,clifton/university heights,54,0,3,3
+2014,4,north avondale,42,0,3,2
+2014,4,walnut hills,94,1,4,2
+2014,4,corryville,28,0,2,1
+2014,4,east  end,17,0,2,2
+2014,4,east walnut hills,20,0,2,2
+2014,4,mt.  washington,23,0,2,1
+2014,4,columbia / tusculum,10,0,1,1
+2014,4,fay apartments,22,0,2,2
+2014,4,hartwell,35,1,3,4
+2014,4,queensgate,18,0,2,2
+2014,4,carthage,36,0,3,3
+2014,4,english  woods,10,0,1,1
+2014,4,kennedy  heights,15,0,1,1
+2014,4,sayler  park,11,0,1,1
+2014,4,mt.  lookout,13,0,1,2
+2014,4,california,3,0,1,2
+2014,4,paddock  hills,9,0,1,1
+2014,4,pendleton,19,0,2,4
+2014,4,linwood,3,0,1,1
+2011,2,c. b. d. / riverfront,113,0,4,1
+2011,2,west  end,67,0,4,1
+2011,2,east  westwood,21,0,2,3
+2011,2,camp  washington,23,0,2,2
+2011,2,east price hill,135,0,4,1
+2011,2,avondale,119,0,4,2
+2011,2,mount airy,51,0,3,1
+2011,2,mount  auburn,49,0,3,2
+2011,2,west price hill,161,1,4,1
+2011,2,sedamsville,9,0,1,1
+2011,2,westwood,233,0,4,1
+2011,2,over-the-rhine,105,0,4,1
+2011,2,evanston,39,0,3,1
+2011,2,s.. cumminsville,2,0,1,1
+2011,2,northside,66,1,4,2
+2011,2,winton hills,55,0,4,2
+2011,2,college  hill,83,1,4,3
+2011,2,madisonville,52,0,4,1
+2011,2,lower price  hill,21,0,2,2
+2011,2,o'bryonville,2,0,1,1
+2011,2,hyde park,18,0,2,1
+2011,2,riverside,13,0,1,2
+2011,2,mount  adams,13,0,1,2
+2011,2,pleasant ridge,35,0,3,2
+2011,2,roselawn,51,0,3,1
+2011,2,oakley,43,1,3,1
+2011,2,north fairmount,11,0,1,2
+2011,2,bondhill,54,1,4,2
+2011,2,south  fairmount,39,0,3,1
+2011,2,spring grove village,15,0,2,1
+2011,2,clifton,46,0,3,1
+2011,2,-,7,0,1,3
+2011,2,millvale,24,0,2,2
+2011,2,fairview,53,0,4,1
+2011,2,clifton/university heights,27,0,3,1
+2011,2,north avondale,43,0,3,2
+2011,2,walnut hills,106,0,4,2
+2011,2,corryville,35,0,3,1
+2011,2,east  end,18,0,2,2
+2011,2,east walnut hills,18,0,2,1
+2011,2,mt.  washington,46,0,3,3
+2011,2,columbia / tusculum,10,0,1,1
+2011,2,fay apartments,24,0,2,3
+2011,2,hartwell,9,0,1,1
+2011,2,queensgate,12,0,1,1
+2011,2,carthage,21,0,2,1
+2011,2,english  woods,9,0,1,1
+2011,2,kennedy  heights,17,0,2,1
+2011,2,sayler  park,19,0,2,3
+2011,2,mt.  lookout,11,0,1,1
+2011,2,california,3,0,1,2
+2011,2,paddock  hills,19,0,2,3
+2011,2,pendleton,16,0,2,3
+2011,2,linwood,6,0,1,3
+2011,8,c. b. d. / riverfront,148,1,4,3
+2011,8,west  end,109,0,4,4
+2011,8,east  westwood,12,0,1,1
+2011,8,camp  washington,32,0,2,4
+2011,8,east price hill,238,0,4,4
+2011,8,avondale,181,0,4,4
+2011,8,mount airy,109,0,4,4
+2011,8,mount  auburn,45,0,2,2
+2011,8,west price hill,227,0,4,4
+2011,8,sedamsville,25,0,1,4
+2011,8,westwood,306,1,4,3
+2011,8,over-the-rhine,159,0,4,4
+2011,8,evanston,75,0,3,4
+2011,8,s.. cumminsville,8,0,1,2
+2011,8,northside,110,0,4,4
+2011,8,winton hills,71,0,3,4
+2011,8,college  hill,99,0,4,4
+2011,8,madisonville,64,0,3,3
+2011,8,lower price  hill,31,0,2,4
+2011,8,o'bryonville,5,0,1,3
+2011,8,hyde park,34,0,2,2
+2011,8,riverside,17,0,1,4
+2011,8,mount  adams,13,0,1,2
+2011,8,pleasant ridge,50,0,3,4
+2011,8,roselawn,80,0,4,4
+2011,8,oakley,70,0,3,3
+2011,8,north fairmount,9,0,1,1
+2011,8,bondhill,95,0,4,4
+2011,8,south  fairmount,55,0,3,2
+2011,8,spring grove village,39,0,2,4
+2011,8,clifton,70,0,3,4
+2011,8,-,12,0,1,3
+2011,8,millvale,30,0,2,3
+2011,8,fairview,80,0,4,4
+2011,8,clifton/university heights,60,0,3,4
+2011,8,north avondale,64,0,3,4
+2011,8,walnut hills,139,0,4,4
+2011,8,corryville,45,0,2,3
+2011,8,east  end,29,0,2,4
+2011,8,east walnut hills,48,0,3,4
+2011,8,mt.  washington,51,0,3,3
+2011,8,columbia / tusculum,33,0,2,4
+2011,8,fay apartments,27,0,2,3
+2011,8,hartwell,34,0,2,3
+2011,8,queensgate,22,0,1,3
+2011,8,carthage,46,0,3,4
+2011,8,english  woods,20,0,1,3
+2011,8,kennedy  heights,18,0,1,2
+2011,8,sayler  park,26,0,2,4
+2011,8,mt.  lookout,53,0,3,4
+2011,8,california,8,0,1,4
+2011,8,paddock  hills,17,0,1,3
+2011,8,pendleton,25,0,1,4
+2011,8,linwood,9,0,1,4
+2011,6,c. b. d. / riverfront,149,0,4,3
+2011,6,west  end,93,0,4,3
+2011,6,east  westwood,31,0,2,4
+2011,6,camp  washington,33,0,2,4
+2011,6,east price hill,199,1,4,4
+2011,6,avondale,164,1,4,4
+2011,6,mount airy,87,0,4,3
+2011,6,mount  auburn,72,1,3,4
+2011,6,west price hill,193,0,4,3
+2011,6,sedamsville,15,0,1,3
+2011,6,westwood,333,0,4,4
+2011,6,over-the-rhine,163,2,4,4
+2011,6,evanston,71,0,3,4
+2011,6,s.. cumminsville,9,0,1,3
+2011,6,northside,120,1,4,4
+2011,6,winton hills,66,1,3,3
+2011,6,college  hill,109,0,4,4
+2011,6,madisonville,71,0,3,3
+2011,6,lower price  hill,26,0,2,3
+2011,6,o'bryonville,5,0,1,3
+2011,6,hyde park,54,0,3,4
+2011,6,riverside,12,0,1,2
+2011,6,mount  adams,9,0,1,1
+2011,6,pleasant ridge,54,0,3,4
+2011,6,roselawn,82,0,4,4
+2011,6,oakley,55,0,3,2
+2011,6,north fairmount,9,0,1,1
+2011,6,bondhill,75,0,4,4
+2011,6,south  fairmount,67,0,3,3
+2011,6,spring grove village,31,0,2,3
+2011,6,clifton,73,0,3,4
+2011,6,-,9,0,1,3
+2011,6,millvale,30,0,2,3
+2011,6,fairview,78,0,4,3
+2011,6,clifton/university heights,48,0,2,3
+2011,6,north avondale,52,0,3,4
+2011,6,walnut hills,116,0,4,3
+2011,6,corryville,53,0,3,3
+2011,6,east  end,26,0,2,4
+2011,6,east walnut hills,24,0,1,3
+2011,6,mt.  washington,48,0,2,3
+2011,6,columbia / tusculum,11,0,1,2
+2011,6,fay apartments,31,0,2,4
+2011,6,hartwell,47,0,2,4
+2011,6,queensgate,19,0,1,2
+2011,6,carthage,33,0,2,2
+2011,6,english  woods,24,0,1,4
+2011,6,kennedy  heights,23,0,1,3
+2011,6,sayler  park,53,0,3,4
+2011,6,mt.  lookout,27,0,2,4
+2011,6,california,5,0,1,3
+2011,6,paddock  hills,20,0,1,4
+2011,6,pendleton,25,0,2,4
+2011,6,linwood,6,0,1,3
+2011,9,c. b. d. / riverfront,161,0,4,4
+2011,9,west  end,98,0,4,3
+2011,9,east  westwood,23,0,2,3
+2011,9,camp  washington,38,0,2,4
+2011,9,east price hill,224,0,4,4
+2011,9,avondale,148,1,4,4
+2011,9,mount airy,75,0,3,2
+2011,9,mount  auburn,66,0,3,4
+2011,9,west price hill,207,0,4,4
+2011,9,sedamsville,11,0,1,2
+2011,9,westwood,254,0,4,1
+2011,9,over-the-rhine,135,2,4,3
+2011,9,evanston,48,0,3,1
+2011,9,s.. cumminsville,11,0,1,3
+2011,9,northside,116,0,4,4
+2011,9,winton hills,75,0,3,4
+2011,9,college  hill,87,0,4,3
+2011,9,madisonville,71,0,3,3
+2011,9,lower price  hill,31,0,2,4
+2011,9,o'bryonville,2,0,1,1
+2011,9,hyde park,46,0,3,4
+2011,9,riverside,14,0,1,3
+2011,9,mount  adams,15,0,1,3
+2011,9,pleasant ridge,40,0,2,3
+2011,9,roselawn,92,0,4,4
+2011,9,oakley,70,0,3,3
+2011,9,north fairmount,14,0,1,3
+2011,9,bondhill,69,0,3,3
+2011,9,south  fairmount,50,0,3,2
+2011,9,spring grove village,30,0,2,3
+2011,9,clifton,87,0,4,4
+2011,9,-,21,0,2,4
+2011,9,millvale,34,0,2,4
+2011,9,fairview,116,0,4,4
+2011,9,clifton/university heights,69,0,3,4
+2011,9,north avondale,57,0,3,4
+2011,9,walnut hills,132,1,4,4
+2011,9,corryville,58,0,3,4
+2011,9,east  end,15,0,1,1
+2011,9,east walnut hills,24,0,2,3
+2011,9,mt.  washington,47,0,3,3
+2011,9,columbia / tusculum,13,0,1,2
+2011,9,fay apartments,15,0,1,1
+2011,9,hartwell,38,0,2,4
+2011,9,queensgate,16,0,1,1
+2011,9,carthage,46,0,3,4
+2011,9,english  woods,22,0,2,4
+2011,9,kennedy  heights,16,0,1,1
+2011,9,sayler  park,34,0,2,4
+2011,9,mt.  lookout,21,0,2,4
+2011,9,california,4,0,1,3
+2011,9,paddock  hills,24,0,2,4
+2011,9,pendleton,20,0,1,4
+2011,9,linwood,10,0,1,4
+2011,5,c. b. d. / riverfront,175,0,4,4
+2011,5,west  end,95,1,4,3
+2011,5,east  westwood,31,0,2,4
+2011,5,camp  washington,20,0,1,2
+2011,5,east price hill,201,0,4,4
+2011,5,avondale,147,2,4,4
+2011,5,mount airy,94,0,4,4
+2011,5,mount  auburn,64,0,3,4
+2011,5,west price hill,215,0,4,4
+2011,5,sedamsville,17,0,1,4
+2011,5,westwood,318,0,4,4
+2011,5,over-the-rhine,149,2,4,3
+2011,5,evanston,66,0,3,3
+2011,5,s.. cumminsville,8,0,1,2
+2011,5,northside,103,0,4,4
+2011,5,winton hills,72,0,3,4
+2011,5,college  hill,111,0,4,4
+2011,5,madisonville,72,1,3,4
+2011,5,lower price  hill,28,0,2,4
+2011,5,o'bryonville,8,0,1,4
+2011,5,hyde park,56,0,3,4
+2011,5,riverside,19,0,1,4
+2011,5,mount  adams,12,0,1,2
+2011,5,pleasant ridge,36,0,2,2
+2011,5,roselawn,69,0,3,3
+2011,5,oakley,79,0,4,4
+2011,5,north fairmount,18,0,1,4
+2011,5,bondhill,68,0,3,3
+2011,5,south  fairmount,66,0,3,3
+2011,5,spring grove village,41,0,3,4
+2011,5,clifton,66,0,3,3
+2011,5,-,18,0,1,4
+2011,5,millvale,13,0,1,1
+2011,5,fairview,89,0,4,4
+2011,5,clifton/university heights,55,0,3,4
+2011,5,north avondale,58,0,3,4
+2011,5,walnut hills,119,0,4,4
+2011,5,corryville,57,0,3,4
+2011,5,east  end,31,0,2,4
+2011,5,east walnut hills,39,0,2,4
+2011,5,mt.  washington,49,0,3,3
+2011,5,columbia / tusculum,20,0,1,4
+2011,5,fay apartments,36,0,2,4
+2011,5,hartwell,39,0,2,4
+2011,5,queensgate,21,0,2,2
+2011,5,carthage,26,0,2,1
+2011,5,english  woods,22,0,2,4
+2011,5,kennedy  heights,30,0,2,4
+2011,5,sayler  park,22,0,2,3
+2011,5,mt.  lookout,14,0,1,2
+2011,5,california,1,0,1,1
+2011,5,paddock  hills,21,0,2,4
+2011,5,pendleton,6,0,1,1
+2011,5,linwood,12,0,1,4
+2011,3,c. b. d. / riverfront,133,0,4,2
+2011,3,west  end,101,1,4,4
+2011,3,east  westwood,15,0,1,1
+2011,3,camp  washington,14,0,1,1
+2011,3,east price hill,152,0,4,2
+2011,3,avondale,143,1,4,3
+2011,3,mount airy,86,0,4,3
+2011,3,mount  auburn,54,0,3,3
+2011,3,west price hill,163,0,4,2
+2011,3,sedamsville,17,0,1,4
+2011,3,westwood,260,0,4,1
+2011,3,over-the-rhine,131,3,4,2
+2011,3,evanston,81,0,4,4
+2011,3,s.. cumminsville,12,0,1,4
+2011,3,northside,84,0,4,3
+2011,3,winton hills,77,0,4,4
+2011,3,college  hill,70,0,4,1
+2011,3,madisonville,60,0,3,2
+2011,3,lower price  hill,28,0,2,4
+2011,3,o'bryonville,2,0,1,1
+2011,3,hyde park,20,0,2,1
+2011,3,riverside,15,0,1,3
+2011,3,mount  adams,10,0,1,2
+2011,3,pleasant ridge,42,0,3,3
+2011,3,roselawn,66,0,4,3
+2011,3,oakley,64,0,3,3
+2011,3,north fairmount,15,0,1,3
+2011,3,bondhill,64,0,3,3
+2011,3,south  fairmount,53,0,3,2
+2011,3,spring grove village,28,1,2,2
+2011,3,clifton,54,0,3,2
+2011,3,-,10,0,1,3
+2011,3,millvale,17,0,1,1
+2011,3,fairview,64,0,3,3
+2011,3,clifton/university heights,36,0,3,2
+2011,3,north avondale,65,1,3,4
+2011,3,walnut hills,122,0,4,4
+2011,3,corryville,55,0,3,4
+2011,3,east  end,11,0,1,1
+2011,3,east walnut hills,23,0,2,2
+2011,3,mt.  washington,57,0,3,4
+2011,3,columbia / tusculum,15,0,1,3
+2011,3,fay apartments,33,0,2,4
+2011,3,hartwell,34,0,3,3
+2011,3,queensgate,21,0,2,2
+2011,3,carthage,29,0,2,2
+2011,3,english  woods,25,0,2,4
+2011,3,kennedy  heights,28,0,2,4
+2011,3,sayler  park,18,0,2,2
+2011,3,mt.  lookout,15,0,1,3
+2011,3,california,0,0,1,1
+2011,3,paddock  hills,25,0,2,4
+2011,3,pendleton,18,0,2,4
+2011,3,linwood,11,0,1,4
+2011,11,c. b. d. / riverfront,131,0,4,2
+2011,11,west  end,91,0,4,3
+2011,11,east  westwood,21,0,2,3
+2011,11,camp  washington,25,0,2,3
+2011,11,east price hill,163,0,4,2
+2011,11,avondale,149,0,4,4
+2011,11,mount airy,69,1,4,2
+2011,11,mount  auburn,60,0,3,4
+2011,11,west price hill,186,0,4,3
+2011,11,sedamsville,16,0,1,4
+2011,11,westwood,334,0,4,4
+2011,11,over-the-rhine,117,0,4,1
+2011,11,evanston,50,0,3,2
+2011,11,s.. cumminsville,7,0,1,2
+2011,11,northside,86,0,4,3
+2011,11,winton hills,91,1,4,4
+2011,11,college  hill,67,0,3,1
+2011,11,madisonville,65,0,3,3
+2011,11,lower price  hill,24,0,2,3
+2011,11,o'bryonville,8,0,1,4
+2011,11,hyde park,50,0,3,4
+2011,11,riverside,11,0,1,2
+2011,11,mount  adams,8,0,1,1
+2011,11,pleasant ridge,40,0,2,3
+2011,11,roselawn,105,0,4,4
+2011,11,oakley,99,0,4,4
+2011,11,north fairmount,19,0,2,4
+2011,11,bondhill,68,0,3,3
+2011,11,south  fairmount,57,0,3,3
+2011,11,spring grove village,44,0,3,4
+2011,11,clifton,61,0,3,3
+2011,11,-,11,0,1,3
+2011,11,millvale,36,0,2,4
+2011,11,fairview,94,0,4,4
+2011,11,clifton/university heights,54,0,3,3
+2011,11,north avondale,59,0,3,4
+2011,11,walnut hills,127,2,4,4
+2011,11,corryville,55,0,3,4
+2011,11,east  end,17,0,1,2
+2011,11,east walnut hills,20,0,2,2
+2011,11,mt.  washington,62,0,3,4
+2011,11,columbia / tusculum,21,0,2,4
+2011,11,fay apartments,27,0,2,3
+2011,11,hartwell,43,0,2,4
+2011,11,queensgate,15,0,1,1
+2011,11,carthage,40,0,2,3
+2011,11,english  woods,14,0,1,2
+2011,11,kennedy  heights,18,0,1,2
+2011,11,sayler  park,18,0,1,2
+2011,11,mt.  lookout,16,0,1,3
+2011,11,california,1,0,1,1
+2011,11,paddock  hills,22,0,2,4
+2011,11,pendleton,12,0,1,2
+2011,11,linwood,9,0,1,4
+2011,12,c. b. d. / riverfront,150,0,4,4
+2011,12,west  end,76,0,4,1
+2011,12,east  westwood,23,0,2,3
+2011,12,camp  washington,25,0,2,3
+2011,12,east price hill,147,0,4,2
+2011,12,avondale,131,0,4,3
+2011,12,mount airy,80,0,4,3
+2011,12,mount  auburn,75,0,3,4
+2011,12,west price hill,154,0,4,1
+2011,12,sedamsville,18,0,1,4
+2011,12,westwood,292,0,4,3
+2011,12,over-the-rhine,134,0,4,2
+2011,12,evanston,73,1,3,4
+2011,12,s.. cumminsville,3,0,1,1
+2011,12,northside,94,0,4,4
+2011,12,winton hills,71,0,3,4
+2011,12,college  hill,93,0,4,3
+2011,12,madisonville,87,0,4,4
+2011,12,lower price  hill,22,1,2,2
+2011,12,o'bryonville,1,0,1,1
+2011,12,hyde park,32,0,2,2
+2011,12,riverside,13,0,1,2
+2011,12,mount  adams,14,0,1,3
+2011,12,pleasant ridge,35,0,3,2
+2011,12,roselawn,81,0,4,4
+2011,12,oakley,83,0,4,4
+2011,12,north fairmount,16,0,1,4
+2011,12,bondhill,54,0,3,2
+2011,12,south  fairmount,54,0,3,2
+2011,12,spring grove village,28,0,2,2
+2011,12,clifton,70,0,3,4
+2011,12,-,17,0,1,4
+2011,12,millvale,34,0,2,4
+2011,12,fairview,71,0,3,3
+2011,12,clifton/university heights,63,0,3,4
+2011,12,north avondale,52,0,3,4
+2011,12,walnut hills,110,1,4,3
+2011,12,corryville,52,0,3,3
+2011,12,east  end,20,0,2,3
+2011,12,east walnut hills,33,0,2,4
+2011,12,mt.  washington,56,0,3,4
+2011,12,columbia / tusculum,10,0,1,1
+2011,12,fay apartments,22,0,2,2
+2011,12,hartwell,52,0,3,4
+2011,12,queensgate,22,0,2,3
+2011,12,carthage,33,0,2,2
+2011,12,english  woods,15,0,1,2
+2011,12,kennedy  heights,25,0,2,3
+2011,12,sayler  park,16,0,1,2
+2011,12,mt.  lookout,13,0,1,2
+2011,12,california,2,0,1,2
+2011,12,paddock  hills,18,0,1,3
+2011,12,pendleton,19,0,2,4
+2011,12,linwood,10,0,1,4
+2011,7,c. b. d. / riverfront,139,0,4,3
+2011,7,west  end,100,0,4,4
+2011,7,east  westwood,29,0,2,4
+2011,7,camp  washington,37,0,2,4
+2011,7,east price hill,196,0,4,4
+2011,7,avondale,170,1,4,4
+2011,7,mount airy,91,0,4,4
+2011,7,mount  auburn,56,0,3,3
+2011,7,west price hill,202,0,4,4
+2011,7,sedamsville,23,0,2,4
+2011,7,westwood,355,1,4,4
+2011,7,over-the-rhine,161,0,4,4
+2011,7,evanston,64,0,3,3
+2011,7,s.. cumminsville,7,0,1,2
+2011,7,northside,90,0,4,3
+2011,7,winton hills,61,0,3,3
+2011,7,college  hill,92,0,4,3
+2011,7,madisonville,68,0,3,3
+2011,7,lower price  hill,24,0,2,3
+2011,7,o'bryonville,2,0,1,1
+2011,7,hyde park,46,0,2,4
+2011,7,riverside,22,0,1,4
+2011,7,mount  adams,16,0,1,3
+2011,7,pleasant ridge,47,0,2,4
+2011,7,roselawn,89,0,4,4
+2011,7,oakley,83,0,4,4
+2011,7,north fairmount,11,1,1,2
+2011,7,bondhill,78,0,3,4
+2011,7,south  fairmount,75,1,3,4
+2011,7,spring grove village,33,0,2,3
+2011,7,clifton,65,0,3,3
+2011,7,-,14,0,1,4
+2011,7,millvale,32,0,2,4
+2011,7,fairview,61,0,3,2
+2011,7,clifton/university heights,50,0,3,3
+2011,7,north avondale,82,0,4,4
+2011,7,walnut hills,144,0,4,4
+2011,7,corryville,58,0,3,4
+2011,7,east  end,20,0,1,3
+2011,7,east walnut hills,53,0,3,4
+2011,7,mt.  washington,48,0,3,3
+2011,7,columbia / tusculum,17,0,1,4
+2011,7,fay apartments,31,0,2,4
+2011,7,hartwell,44,0,2,4
+2011,7,queensgate,8,0,1,1
+2011,7,carthage,44,0,2,4
+2011,7,english  woods,20,0,1,3
+2011,7,kennedy  heights,24,0,2,3
+2011,7,sayler  park,50,0,3,4
+2011,7,mt.  lookout,14,0,1,2
+2011,7,california,7,0,1,4
+2011,7,paddock  hills,27,0,2,4
+2011,7,pendleton,18,0,1,4
+2011,7,linwood,8,0,1,3
+2011,10,c. b. d. / riverfront,178,0,4,4
+2011,10,west  end,114,0,4,4
+2011,10,east  westwood,25,0,2,4
+2011,10,camp  washington,30,0,2,4
+2011,10,east price hill,177,0,4,3
+2011,10,avondale,161,1,4,4
+2011,10,mount airy,91,0,4,4
+2011,10,mount  auburn,59,1,3,4
+2011,10,west price hill,209,0,4,4
+2011,10,sedamsville,10,0,1,2
+2011,10,westwood,311,1,4,3
+2011,10,over-the-rhine,141,0,4,3
+2011,10,evanston,73,0,3,4
+2011,10,s.. cumminsville,5,0,1,1
+2011,10,northside,119,0,4,4
+2011,10,winton hills,65,0,3,3
+2011,10,college  hill,97,0,4,4
+2011,10,madisonville,80,1,3,4
+2011,10,lower price  hill,33,0,2,4
+2011,10,o'bryonville,5,0,1,3
+2011,10,hyde park,45,0,3,4
+2011,10,riverside,27,0,2,4
+2011,10,mount  adams,13,0,1,2
+2011,10,pleasant ridge,36,0,2,2
+2011,10,roselawn,91,0,4,4
+2011,10,oakley,112,0,4,4
+2011,10,north fairmount,17,0,1,4
+2011,10,bondhill,81,0,3,4
+2011,10,south  fairmount,67,0,3,3
+2011,10,spring grove village,43,0,2,4
+2011,10,clifton,86,0,3,4
+2011,10,-,11,0,1,3
+2011,10,millvale,26,0,2,3
+2011,10,fairview,102,0,4,4
+2011,10,clifton/university heights,71,0,3,4
+2011,10,north avondale,45,2,3,2
+2011,10,walnut hills,118,0,4,3
+2011,10,corryville,55,0,3,4
+2011,10,east  end,17,1,1,2
+2011,10,east walnut hills,20,0,1,2
+2011,10,mt.  washington,69,0,3,4
+2011,10,columbia / tusculum,7,0,1,1
+2011,10,fay apartments,30,0,2,4
+2011,10,hartwell,36,0,2,4
+2011,10,queensgate,22,0,2,3
+2011,10,carthage,50,1,3,4
+2011,10,english  woods,12,0,1,1
+2011,10,kennedy  heights,23,0,2,3
+2011,10,sayler  park,31,0,2,4
+2011,10,mt.  lookout,21,0,2,4
+2011,10,california,4,0,1,3
+2011,10,paddock  hills,14,0,1,2
+2011,10,pendleton,14,0,1,2
+2011,10,linwood,7,0,1,3
+2011,1,c. b. d. / riverfront,115,0,4,1
+2011,1,west  end,105,0,4,4
+2011,1,east  westwood,22,0,2,3
+2011,1,camp  washington,40,0,3,4
+2011,1,east price hill,169,0,4,3
+2011,1,avondale,143,0,4,3
+2011,1,mount airy,74,0,4,2
+2011,1,mount  auburn,53,0,3,3
+2011,1,west price hill,178,1,4,2
+2011,1,sedamsville,10,0,1,2
+2011,1,westwood,283,0,4,3
+2011,1,over-the-rhine,150,0,4,3
+2011,1,evanston,74,0,4,4
+2011,1,s.. cumminsville,9,0,1,3
+2011,1,northside,73,0,4,2
+2011,1,winton hills,71,0,3,4
+2011,1,college  hill,81,0,4,2
+2011,1,madisonville,72,0,4,4
+2011,1,lower price  hill,25,0,2,3
+2011,1,o'bryonville,3,0,1,2
+2011,1,hyde park,25,0,2,1
+2011,1,riverside,15,0,1,3
+2011,1,mount  adams,14,0,1,3
+2011,1,pleasant ridge,35,1,2,2
+2011,1,roselawn,69,0,3,3
+2011,1,oakley,60,0,3,2
+2011,1,north fairmount,18,0,1,4
+2011,1,bondhill,50,0,3,1
+2011,1,south  fairmount,50,0,3,2
+2011,1,spring grove village,44,0,3,4
+2011,1,clifton,69,0,3,3
+2011,1,-,19,0,2,4
+2011,1,millvale,24,0,2,2
+2011,1,fairview,77,0,4,3
+2011,1,clifton/university heights,51,0,3,3
+2011,1,north avondale,65,0,3,4
+2011,1,walnut hills,100,0,4,2
+2011,1,corryville,57,0,3,4
+2011,1,east  end,17,0,1,2
+2011,1,east walnut hills,12,0,1,1
+2011,1,mt.  washington,67,0,3,4
+2011,1,columbia / tusculum,15,0,1,3
+2011,1,fay apartments,35,0,2,4
+2011,1,hartwell,31,0,2,3
+2011,1,queensgate,19,0,2,2
+2011,1,carthage,34,0,2,2
+2011,1,english  woods,20,0,2,3
+2011,1,kennedy  heights,23,0,2,3
+2011,1,sayler  park,11,0,1,1
+2011,1,mt.  lookout,13,0,1,2
+2011,1,california,3,0,1,2
+2011,1,paddock  hills,22,1,2,4
+2011,1,pendleton,10,0,1,1
+2011,1,linwood,5,0,1,2
+2011,4,c. b. d. / riverfront,172,0,4,4
+2011,4,west  end,113,0,4,4
+2011,4,east  westwood,19,0,2,2
+2011,4,camp  washington,33,1,2,4
+2011,4,east price hill,201,0,4,4
+2011,4,avondale,141,0,4,3
+2011,4,mount airy,80,0,4,3
+2011,4,mount  auburn,86,0,4,4
+2011,4,west price hill,196,0,4,4
+2011,4,sedamsville,12,0,1,2
+2011,4,westwood,277,1,4,2
+2011,4,over-the-rhine,138,1,4,3
+2011,4,evanston,66,0,3,3
+2011,4,s.. cumminsville,4,0,1,1
+2011,4,northside,87,0,4,3
+2011,4,winton hills,66,2,3,3
+2011,4,college  hill,104,0,4,4
+2011,4,madisonville,72,0,3,4
+2011,4,lower price  hill,25,0,2,3
+2011,4,o'bryonville,5,0,1,3
+2011,4,hyde park,46,0,3,4
+2011,4,riverside,14,0,1,3
+2011,4,mount  adams,14,0,1,3
+2011,4,pleasant ridge,43,0,3,3
+2011,4,roselawn,55,0,3,2
+2011,4,oakley,66,0,3,3
+2011,4,north fairmount,22,0,2,4
+2011,4,bondhill,71,0,3,4
+2011,4,south  fairmount,62,0,3,3
+2011,4,spring grove village,37,0,2,4
+2011,4,clifton,72,0,3,4
+2011,4,-,16,0,1,4
+2011,4,millvale,23,0,2,2
+2011,4,fairview,81,0,4,4
+2011,4,clifton/university heights,65,0,3,4
+2011,4,north avondale,60,0,3,4
+2011,4,walnut hills,138,0,4,4
+2011,4,corryville,46,0,3,3
+2011,4,east  end,23,0,2,3
+2011,4,east walnut hills,35,0,2,4
+2011,4,mt.  washington,55,0,3,4
+2011,4,columbia / tusculum,13,0,1,2
+2011,4,fay apartments,40,0,2,4
+2011,4,hartwell,26,0,2,2
+2011,4,queensgate,18,0,1,2
+2011,4,carthage,29,0,2,2
+2011,4,english  woods,14,0,1,2
+2011,4,kennedy  heights,16,0,1,1
+2011,4,sayler  park,20,0,2,3
+2011,4,mt.  lookout,14,0,1,2
+2011,4,california,1,0,1,1
+2011,4,paddock  hills,16,0,1,2
+2011,4,pendleton,24,0,2,4
+2011,4,linwood,8,0,1,3
+2016,2,c. b. d. / riverfront,82,0,4,1
+2016,2,west  end,73,0,4,1
+2016,2,east  westwood,11,1,1,1
+2016,2,camp  washington,16,0,2,1
+2016,2,east price hill,119,0,4,1
+2016,2,avondale,74,0,4,1
+2016,2,mount airy,67,1,4,2
+2016,2,mount  auburn,38,0,3,1
+2016,2,west price hill,124,0,4,1
+2016,2,sedamsville,6,0,1,1
+2016,2,westwood,221,1,4,1
+2016,2,over-the-rhine,102,0,4,1
+2016,2,evanston,27,0,3,1
+2016,2,s.. cumminsville,6,0,1,1
+2016,2,northside,34,0,3,1
+2016,2,winton hills,46,0,3,1
+2016,2,college  hill,71,0,4,1
+2016,2,madisonville,57,0,4,2
+2016,2,lower price  hill,6,0,1,1
+2016,2,o'bryonville,3,0,1,2
+2016,2,hyde park,16,0,2,1
+2016,2,riverside,12,0,1,2
+2016,2,mount  adams,5,0,1,1
+2016,2,pleasant ridge,37,0,3,2
+2016,2,roselawn,40,0,3,1
+2016,2,oakley,62,0,4,2
+2016,2,north fairmount,1,0,1,1
+2016,2,bondhill,60,0,4,3
+2016,2,south  fairmount,38,0,3,1
+2016,2,spring grove village,22,0,2,2
+2016,2,clifton,36,0,3,1
+2016,2,-,2,0,1,1
+2016,2,millvale,22,0,2,2
+2016,2,fairview,46,0,3,1
+2016,2,clifton/university heights,19,0,2,1
+2016,2,north avondale,34,0,3,1
+2016,2,walnut hills,84,0,4,1
+2016,2,corryville,29,0,3,1
+2016,2,east  end,13,1,2,1
+2016,2,east walnut hills,15,0,2,1
+2016,2,mt.  washington,29,0,3,1
+2016,2,columbia / tusculum,5,0,1,1
+2016,2,fay apartments,15,0,2,1
+2016,2,hartwell,15,0,2,1
+2016,2,queensgate,24,0,2,3
+2016,2,carthage,24,0,2,1
+2016,2,english  woods,13,0,2,1
+2016,2,kennedy  heights,14,0,2,1
+2016,2,sayler  park,13,0,2,1
+2016,2,mt.  lookout,9,0,1,1
+2016,2,california,1,0,1,1
+2016,2,paddock  hills,25,0,3,4
+2016,2,pendleton,7,0,1,1
+2016,2,linwood,8,0,1,3
+2016,8,c. b. d. / riverfront,144,0,4,3
+2016,8,west  end,91,0,4,3
+2016,8,east  westwood,15,0,1,1
+2016,8,camp  washington,23,0,2,2
+2016,8,east price hill,192,0,4,4
+2016,8,avondale,120,0,4,2
+2016,8,mount airy,70,0,4,2
+2016,8,mount  auburn,52,0,3,3
+2016,8,west price hill,192,3,4,3
+2016,8,sedamsville,10,0,1,2
+2016,8,westwood,295,0,4,3
+2016,8,over-the-rhine,144,0,4,3
+2016,8,evanston,56,0,3,2
+2016,8,s.. cumminsville,6,0,1,1
+2016,8,northside,71,1,4,2
+2016,8,winton hills,56,0,3,2
+2016,8,college  hill,93,0,4,3
+2016,8,madisonville,66,0,4,3
+2016,8,lower price  hill,17,0,2,1
+2016,8,o'bryonville,2,0,1,1
+2016,8,hyde park,31,0,2,2
+2016,8,riverside,16,0,1,3
+2016,8,mount  adams,26,0,2,4
+2016,8,pleasant ridge,32,0,2,1
+2016,8,roselawn,46,0,3,1
+2016,8,oakley,70,0,4,3
+2016,8,north fairmount,14,0,1,3
+2016,8,bondhill,55,1,3,2
+2016,8,south  fairmount,44,0,3,1
+2016,8,spring grove village,34,0,3,3
+2016,8,clifton,49,0,3,2
+2016,8,-,10,0,1,3
+2016,8,millvale,19,0,2,1
+2016,8,fairview,57,0,4,2
+2016,8,clifton/university heights,49,0,3,3
+2016,8,north avondale,49,0,3,3
+2016,8,walnut hills,98,0,4,2
+2016,8,corryville,37,0,3,2
+2016,8,east  end,33,0,2,4
+2016,8,east walnut hills,23,0,2,2
+2016,8,mt.  washington,49,0,3,3
+2016,8,columbia / tusculum,13,0,1,2
+2016,8,fay apartments,41,0,3,4
+2016,8,hartwell,22,0,2,1
+2016,8,queensgate,27,0,2,4
+2016,8,carthage,32,0,2,2
+2016,8,english  woods,11,0,1,1
+2016,8,kennedy  heights,14,0,1,1
+2016,8,sayler  park,19,0,2,3
+2016,8,mt.  lookout,17,0,2,3
+2016,8,california,2,0,1,2
+2016,8,paddock  hills,14,0,1,2
+2016,8,pendleton,13,0,1,2
+2016,8,linwood,5,0,1,2
+2016,6,c. b. d. / riverfront,117,0,4,2
+2016,6,west  end,89,0,4,3
+2016,6,east  westwood,24,0,2,4
+2016,6,camp  washington,25,0,2,3
+2016,6,east price hill,160,0,4,2
+2016,6,avondale,125,0,4,2
+2016,6,mount airy,66,0,4,1
+2016,6,mount  auburn,37,1,3,1
+2016,6,west price hill,201,1,4,4
+2016,6,sedamsville,12,0,1,2
+2016,6,westwood,278,2,4,2
+2016,6,over-the-rhine,165,0,4,4
+2016,6,evanston,45,0,3,1
+2016,6,s.. cumminsville,8,0,1,2
+2016,6,northside,49,0,3,1
+2016,6,winton hills,82,1,4,4
+2016,6,college  hill,75,0,4,2
+2016,6,madisonville,53,0,4,1
+2016,6,lower price  hill,21,0,2,2
+2016,6,o'bryonville,5,0,1,3
+2016,6,hyde park,28,0,2,1
+2016,6,riverside,7,0,1,1
+2016,6,mount  adams,20,0,2,4
+2016,6,pleasant ridge,51,0,3,4
+2016,6,roselawn,49,0,3,1
+2016,6,oakley,71,0,4,4
+2016,6,north fairmount,15,0,1,3
+2016,6,bondhill,50,0,3,1
+2016,6,south  fairmount,79,1,4,4
+2016,6,spring grove village,35,0,3,4
+2016,6,clifton,44,0,3,1
+2016,6,-,5,0,1,3
+2016,6,millvale,23,0,2,2
+2016,6,fairview,33,0,2,1
+2016,6,clifton/university heights,26,0,2,1
+2016,6,north avondale,50,0,3,3
+2016,6,walnut hills,95,0,4,2
+2016,6,corryville,25,0,2,1
+2016,6,east  end,17,0,1,2
+2016,6,east walnut hills,19,0,2,2
+2016,6,mt.  washington,34,0,3,1
+2016,6,columbia / tusculum,8,0,1,1
+2016,6,fay apartments,39,0,3,4
+2016,6,hartwell,36,0,3,4
+2016,6,queensgate,29,0,2,4
+2016,6,carthage,46,0,3,4
+2016,6,english  woods,23,0,2,4
+2016,6,kennedy  heights,9,0,1,1
+2016,6,sayler  park,27,0,2,4
+2016,6,mt.  lookout,6,0,1,1
+2016,6,california,5,0,1,3
+2016,6,paddock  hills,10,0,1,1
+2016,6,pendleton,13,0,1,2
+2016,6,linwood,3,0,1,1
+2016,9,c. b. d. / riverfront,148,0,4,3
+2016,9,west  end,91,0,4,3
+2016,9,east  westwood,13,0,1,1
+2016,9,camp  washington,19,0,1,1
+2016,9,east price hill,167,0,4,3
+2016,9,avondale,118,0,4,2
+2016,9,mount airy,85,2,4,3
+2016,9,mount  auburn,32,0,2,1
+2016,9,west price hill,170,0,4,2
+2016,9,sedamsville,5,0,1,1
+2016,9,westwood,319,1,4,4
+2016,9,over-the-rhine,125,0,4,2
+2016,9,evanston,57,0,3,2
+2016,9,s.. cumminsville,4,0,1,1
+2016,9,northside,35,0,3,1
+2016,9,winton hills,65,0,4,3
+2016,9,college  hill,79,0,4,2
+2016,9,madisonville,56,1,3,2
+2016,9,lower price  hill,22,0,2,2
+2016,9,o'bryonville,4,0,1,3
+2016,9,hyde park,35,0,3,3
+2016,9,riverside,16,0,1,3
+2016,9,mount  adams,28,0,2,4
+2016,9,pleasant ridge,29,0,2,1
+2016,9,roselawn,61,0,4,2
+2016,9,oakley,52,0,3,1
+2016,9,north fairmount,12,0,1,2
+2016,9,bondhill,43,0,3,1
+2016,9,south  fairmount,46,0,3,1
+2016,9,spring grove village,24,0,2,2
+2016,9,clifton,78,0,4,4
+2016,9,-,13,0,1,3
+2016,9,millvale,19,0,1,1
+2016,9,fairview,65,0,4,3
+2016,9,clifton/university heights,37,0,3,2
+2016,9,north avondale,50,0,3,3
+2016,9,walnut hills,120,0,4,4
+2016,9,corryville,44,0,3,2
+2016,9,east  end,21,0,2,3
+2016,9,east walnut hills,31,0,2,4
+2016,9,mt.  washington,45,0,3,2
+2016,9,columbia / tusculum,20,0,2,4
+2016,9,fay apartments,29,0,2,3
+2016,9,hartwell,25,0,2,2
+2016,9,queensgate,34,0,3,4
+2016,9,carthage,37,0,3,3
+2016,9,english  woods,12,0,1,1
+2016,9,kennedy  heights,22,0,2,3
+2016,9,sayler  park,13,0,1,1
+2016,9,mt.  lookout,19,0,1,4
+2016,9,california,2,0,1,2
+2016,9,paddock  hills,14,0,1,2
+2016,9,pendleton,15,0,1,3
+2016,9,linwood,12,0,1,4
+2016,5,c. b. d. / riverfront,130,0,4,2
+2016,5,west  end,88,0,4,2
+2016,5,east  westwood,21,0,2,3
+2016,5,camp  washington,7,0,1,1
+2016,5,east price hill,178,0,4,3
+2016,5,avondale,124,2,4,2
+2016,5,mount airy,73,0,4,2
+2016,5,mount  auburn,47,0,3,2
+2016,5,west price hill,152,0,4,1
+2016,5,sedamsville,11,0,1,2
+2016,5,westwood,257,0,4,1
+2016,5,over-the-rhine,158,0,4,4
+2016,5,evanston,50,0,3,2
+2016,5,s.. cumminsville,7,0,1,2
+2016,5,northside,52,0,3,1
+2016,5,winton hills,56,1,4,2
+2016,5,college  hill,54,1,4,1
+2016,5,madisonville,50,0,3,1
+2016,5,lower price  hill,12,0,1,1
+2016,5,o'bryonville,7,0,1,4
+2016,5,hyde park,30,0,3,2
+2016,5,riverside,11,0,1,2
+2016,5,mount  adams,14,0,1,3
+2016,5,pleasant ridge,38,0,3,3
+2016,5,roselawn,61,0,4,2
+2016,5,oakley,77,0,4,4
+2016,5,north fairmount,11,0,1,2
+2016,5,bondhill,59,0,4,2
+2016,5,south  fairmount,53,0,3,2
+2016,5,spring grove village,29,0,2,3
+2016,5,clifton,34,0,3,1
+2016,5,-,2,0,1,1
+2016,5,millvale,16,0,2,1
+2016,5,fairview,41,0,3,1
+2016,5,clifton/university heights,27,0,2,1
+2016,5,north avondale,40,0,3,2
+2016,5,walnut hills,118,0,4,3
+2016,5,corryville,24,0,2,1
+2016,5,east  end,14,0,1,1
+2016,5,east walnut hills,37,0,3,4
+2016,5,mt.  washington,33,0,3,1
+2016,5,columbia / tusculum,9,0,1,1
+2016,5,fay apartments,21,0,2,2
+2016,5,hartwell,26,0,2,2
+2016,5,queensgate,29,0,2,4
+2016,5,carthage,27,0,2,1
+2016,5,english  woods,15,0,2,2
+2016,5,kennedy  heights,22,0,2,3
+2016,5,sayler  park,17,0,2,2
+2016,5,mt.  lookout,12,0,1,2
+2016,5,california,1,0,1,1
+2016,5,paddock  hills,15,0,2,2
+2016,5,pendleton,14,1,1,2
+2016,5,linwood,3,0,1,1
+2016,3,c. b. d. / riverfront,137,0,4,3
+2016,3,west  end,86,1,4,2
+2016,3,east  westwood,21,0,2,3
+2016,3,camp  washington,18,0,2,1
+2016,3,east price hill,174,1,4,3
+2016,3,avondale,93,1,4,1
+2016,3,mount airy,81,0,4,3
+2016,3,mount  auburn,50,0,3,3
+2016,3,west price hill,167,0,4,2
+2016,3,sedamsville,11,0,1,2
+2016,3,westwood,225,0,4,1
+2016,3,over-the-rhine,153,1,4,4
+2016,3,evanston,37,0,3,1
+2016,3,s.. cumminsville,13,0,1,4
+2016,3,northside,65,0,4,1
+2016,3,winton hills,60,0,4,3
+2016,3,college  hill,81,0,4,2
+2016,3,madisonville,56,0,4,2
+2016,3,lower price  hill,6,1,1,1
+2016,3,o'bryonville,4,0,1,3
+2016,3,hyde park,20,0,2,1
+2016,3,riverside,12,0,1,2
+2016,3,mount  adams,9,0,1,1
+2016,3,pleasant ridge,25,0,2,1
+2016,3,roselawn,55,0,3,2
+2016,3,oakley,62,0,4,2
+2016,3,north fairmount,9,0,1,1
+2016,3,bondhill,51,0,3,1
+2016,3,south  fairmount,32,0,3,1
+2016,3,spring grove village,31,0,3,3
+2016,3,clifton,35,0,3,1
+2016,3,-,3,0,1,2
+2016,3,millvale,27,0,2,3
+2016,3,fairview,36,0,3,1
+2016,3,clifton/university heights,35,0,3,1
+2016,3,north avondale,36,0,3,1
+2016,3,walnut hills,101,0,4,2
+2016,3,corryville,32,0,3,1
+2016,3,east  end,21,0,2,3
+2016,3,east walnut hills,16,0,2,1
+2016,3,mt.  washington,27,0,2,1
+2016,3,columbia / tusculum,13,0,1,2
+2016,3,fay apartments,26,0,2,3
+2016,3,hartwell,26,0,2,2
+2016,3,queensgate,22,0,2,3
+2016,3,carthage,29,0,3,2
+2016,3,english  woods,23,0,2,4
+2016,3,kennedy  heights,25,0,2,3
+2016,3,sayler  park,13,0,1,1
+2016,3,mt.  lookout,13,0,1,2
+2016,3,california,2,0,1,2
+2016,3,paddock  hills,11,0,1,1
+2016,3,pendleton,12,0,1,2
+2016,3,linwood,5,0,1,2
+2016,11,c. b. d. / riverfront,108,0,4,1
+2016,11,west  end,80,1,4,2
+2016,11,east  westwood,10,0,1,1
+2016,11,camp  washington,19,0,2,1
+2016,11,east price hill,125,0,4,1
+2016,11,avondale,82,0,4,1
+2016,11,mount airy,87,0,4,3
+2016,11,mount  auburn,54,0,3,3
+2016,11,west price hill,159,0,4,1
+2016,11,sedamsville,6,0,1,1
+2016,11,westwood,258,0,4,1
+2016,11,over-the-rhine,125,0,4,2
+2016,11,evanston,52,1,3,2
+2016,11,s.. cumminsville,5,0,1,1
+2016,11,northside,48,0,3,1
+2016,11,winton hills,51,0,3,2
+2016,11,college  hill,78,0,4,2
+2016,11,madisonville,35,0,3,1
+2016,11,lower price  hill,12,0,1,1
+2016,11,o'bryonville,2,0,1,1
+2016,11,hyde park,32,0,2,2
+2016,11,riverside,4,0,1,1
+2016,11,mount  adams,11,0,1,2
+2016,11,pleasant ridge,30,0,2,1
+2016,11,roselawn,56,2,4,2
+2016,11,oakley,62,0,4,2
+2016,11,north fairmount,16,0,2,4
+2016,11,bondhill,68,0,4,3
+2016,11,south  fairmount,47,0,3,1
+2016,11,spring grove village,43,0,3,4
+2016,11,clifton,37,0,3,1
+2016,11,-,10,0,1,3
+2016,11,millvale,8,0,1,1
+2016,11,fairview,79,0,4,4
+2016,11,clifton/university heights,51,0,3,3
+2016,11,north avondale,45,0,3,2
+2016,11,walnut hills,118,0,4,3
+2016,11,corryville,37,0,3,2
+2016,11,east  end,12,0,1,1
+2016,11,east walnut hills,19,0,2,2
+2016,11,mt.  washington,32,0,2,1
+2016,11,columbia / tusculum,10,0,1,1
+2016,11,fay apartments,30,0,2,4
+2016,11,hartwell,30,0,2,3
+2016,11,queensgate,35,0,3,4
+2016,11,carthage,44,0,3,4
+2016,11,english  woods,14,0,2,2
+2016,11,kennedy  heights,17,0,2,1
+2016,11,sayler  park,14,0,2,2
+2016,11,mt.  lookout,19,0,2,4
+2016,11,california,1,0,1,1
+2016,11,paddock  hills,17,0,2,3
+2016,11,pendleton,13,0,1,2
+2016,11,linwood,2,0,1,1
+2016,12,c. b. d. / riverfront,115,0,4,1
+2016,12,west  end,70,0,4,1
+2016,12,east  westwood,28,0,2,4
+2016,12,camp  washington,25,0,2,3
+2016,12,east price hill,157,0,4,2
+2016,12,avondale,99,0,4,1
+2016,12,mount airy,55,0,4,1
+2016,12,mount  auburn,44,0,3,2
+2016,12,west price hill,171,0,4,2
+2016,12,sedamsville,8,0,1,1
+2016,12,westwood,315,0,4,4
+2016,12,over-the-rhine,130,1,4,2
+2016,12,evanston,52,0,3,2
+2016,12,s.. cumminsville,6,0,1,1
+2016,12,northside,53,1,4,1
+2016,12,winton hills,45,0,3,1
+2016,12,college  hill,86,0,4,3
+2016,12,madisonville,42,0,3,1
+2016,12,lower price  hill,12,0,1,1
+2016,12,o'bryonville,3,0,1,2
+2016,12,hyde park,36,0,3,3
+2016,12,riverside,20,0,2,4
+2016,12,mount  adams,25,0,2,4
+2016,12,pleasant ridge,32,0,2,1
+2016,12,roselawn,49,0,3,1
+2016,12,oakley,68,0,4,3
+2016,12,north fairmount,22,0,2,4
+2016,12,bondhill,64,0,4,3
+2016,12,south  fairmount,45,0,3,1
+2016,12,spring grove village,34,0,2,3
+2016,12,clifton,48,0,3,2
+2016,12,-,18,0,2,4
+2016,12,millvale,23,0,2,2
+2016,12,fairview,64,0,4,3
+2016,12,clifton/university heights,36,0,3,2
+2016,12,north avondale,47,0,3,3
+2016,12,walnut hills,90,0,4,1
+2016,12,corryville,23,0,2,1
+2016,12,east  end,14,0,1,1
+2016,12,east walnut hills,17,0,1,1
+2016,12,mt.  washington,34,0,2,1
+2016,12,columbia / tusculum,8,0,1,1
+2016,12,fay apartments,22,0,2,2
+2016,12,hartwell,37,0,3,4
+2016,12,queensgate,20,0,2,2
+2016,12,carthage,44,0,3,4
+2016,12,english  woods,14,0,1,2
+2016,12,kennedy  heights,21,0,2,2
+2016,12,sayler  park,15,0,1,2
+2016,12,mt.  lookout,12,0,1,2
+2016,12,california,1,0,1,1
+2016,12,paddock  hills,17,0,1,3
+2016,12,pendleton,6,0,1,1
+2016,12,linwood,1,0,1,1
+2016,7,c. b. d. / riverfront,155,0,4,4
+2016,7,west  end,90,1,4,3
+2016,7,east  westwood,29,0,2,4
+2016,7,camp  washington,33,0,2,4
+2016,7,east price hill,170,0,4,3
+2016,7,avondale,131,0,4,3
+2016,7,mount airy,78,1,4,3
+2016,7,mount  auburn,38,0,3,1
+2016,7,west price hill,220,0,4,4
+2016,7,sedamsville,13,0,1,3
+2016,7,westwood,264,0,4,2
+2016,7,over-the-rhine,162,0,4,4
+2016,7,evanston,68,0,4,3
+2016,7,s.. cumminsville,8,0,1,2
+2016,7,northside,75,0,4,2
+2016,7,winton hills,73,0,4,4
+2016,7,college  hill,65,0,3,1
+2016,7,madisonville,59,1,3,2
+2016,7,lower price  hill,22,0,2,2
+2016,7,o'bryonville,2,0,1,1
+2016,7,hyde park,21,0,2,1
+2016,7,riverside,18,0,1,4
+2016,7,mount  adams,23,0,2,4
+2016,7,pleasant ridge,46,0,3,4
+2016,7,roselawn,71,0,4,3
+2016,7,oakley,54,0,3,2
+2016,7,north fairmount,13,0,1,2
+2016,7,bondhill,53,0,3,2
+2016,7,south  fairmount,67,0,4,3
+2016,7,spring grove village,28,0,2,2
+2016,7,clifton,48,0,3,2
+2016,7,-,6,0,1,3
+2016,7,millvale,31,1,2,4
+2016,7,fairview,54,0,3,1
+2016,7,clifton/university heights,33,0,2,1
+2016,7,north avondale,42,0,3,2
+2016,7,walnut hills,123,0,4,4
+2016,7,corryville,30,0,2,1
+2016,7,east  end,17,0,1,2
+2016,7,east walnut hills,17,0,1,1
+2016,7,mt.  washington,37,0,3,2
+2016,7,columbia / tusculum,10,0,1,1
+2016,7,fay apartments,18,0,1,1
+2016,7,hartwell,30,0,2,3
+2016,7,queensgate,33,0,2,4
+2016,7,carthage,36,0,3,3
+2016,7,english  woods,18,0,1,3
+2016,7,kennedy  heights,20,0,2,2
+2016,7,sayler  park,18,0,1,2
+2016,7,mt.  lookout,7,0,1,1
+2016,7,california,6,0,1,4
+2016,7,paddock  hills,16,0,1,2
+2016,7,pendleton,11,0,1,1
+2016,7,linwood,5,0,1,2
+2016,10,c. b. d. / riverfront,129,1,4,2
+2016,10,west  end,105,0,4,4
+2016,10,east  westwood,10,0,1,1
+2016,10,camp  washington,20,0,2,2
+2016,10,east price hill,144,0,4,1
+2016,10,avondale,105,0,4,1
+2016,10,mount airy,81,0,4,3
+2016,10,mount  auburn,45,0,3,2
+2016,10,west price hill,172,0,4,2
+2016,10,sedamsville,10,0,1,2
+2016,10,westwood,271,1,4,2
+2016,10,over-the-rhine,150,0,4,3
+2016,10,evanston,60,0,3,3
+2016,10,s.. cumminsville,2,0,1,1
+2016,10,northside,50,0,3,1
+2016,10,winton hills,92,0,4,4
+2016,10,college  hill,96,1,4,4
+2016,10,madisonville,27,0,2,1
+2016,10,lower price  hill,18,0,2,2
+2016,10,o'bryonville,1,0,1,1
+2016,10,hyde park,41,0,3,3
+2016,10,riverside,12,0,1,2
+2016,10,mount  adams,14,0,1,3
+2016,10,pleasant ridge,32,0,2,1
+2016,10,roselawn,60,0,3,2
+2016,10,oakley,51,0,3,1
+2016,10,north fairmount,16,0,1,4
+2016,10,bondhill,51,0,3,1
+2016,10,south  fairmount,41,0,3,1
+2016,10,spring grove village,36,0,3,4
+2016,10,clifton,53,0,3,2
+2016,10,-,5,0,1,3
+2016,10,millvale,16,0,1,1
+2016,10,fairview,61,0,4,2
+2016,10,clifton/university heights,69,0,4,4
+2016,10,north avondale,53,0,3,4
+2016,10,walnut hills,93,0,4,1
+2016,10,corryville,45,0,3,3
+2016,10,east  end,19,0,2,2
+2016,10,east walnut hills,27,0,2,3
+2016,10,mt.  washington,37,0,3,2
+2016,10,columbia / tusculum,9,0,1,1
+2016,10,fay apartments,32,0,2,4
+2016,10,hartwell,24,0,2,2
+2016,10,queensgate,16,0,1,1
+2016,10,carthage,30,0,2,2
+2016,10,english  woods,16,0,1,2
+2016,10,kennedy  heights,28,0,2,4
+2016,10,sayler  park,14,0,1,2
+2016,10,mt.  lookout,8,0,1,1
+2016,10,california,2,0,1,2
+2016,10,paddock  hills,13,0,1,1
+2016,10,pendleton,22,0,2,4
+2016,10,linwood,7,0,1,3
+2016,1,c. b. d. / riverfront,124,0,4,2
+2016,1,west  end,76,0,4,1
+2016,1,east  westwood,21,0,2,3
+2016,1,camp  washington,17,0,2,1
+2016,1,east price hill,131,0,4,1
+2016,1,avondale,86,0,4,1
+2016,1,mount airy,70,0,4,2
+2016,1,mount  auburn,43,0,3,2
+2016,1,west price hill,168,0,4,2
+2016,1,sedamsville,2,0,1,1
+2016,1,westwood,272,2,4,2
+2016,1,over-the-rhine,122,0,4,2
+2016,1,evanston,38,0,3,1
+2016,1,s.. cumminsville,6,0,1,1
+2016,1,northside,54,0,3,1
+2016,1,winton hills,72,1,4,4
+2016,1,college  hill,82,0,4,2
+2016,1,madisonville,44,0,3,1
+2016,1,lower price  hill,13,0,1,1
+2016,1,o'bryonville,5,0,1,3
+2016,1,hyde park,17,0,2,1
+2016,1,riverside,12,0,1,2
+2016,1,mount  adams,8,0,1,1
+2016,1,pleasant ridge,32,0,3,1
+2016,1,roselawn,48,0,3,1
+2016,1,oakley,72,0,4,4
+2016,1,north fairmount,10,0,1,1
+2016,1,bondhill,69,2,4,3
+2016,1,south  fairmount,38,0,3,1
+2016,1,spring grove village,38,0,3,4
+2016,1,clifton,42,0,3,1
+2016,1,-,1,0,1,1
+2016,1,millvale,14,0,1,1
+2016,1,fairview,59,0,4,2
+2016,1,clifton/university heights,21,0,2,1
+2016,1,north avondale,37,0,3,1
+2016,1,walnut hills,109,0,4,3
+2016,1,corryville,37,0,3,2
+2016,1,east  end,21,0,2,3
+2016,1,east walnut hills,26,0,2,3
+2016,1,mt.  washington,39,0,3,2
+2016,1,columbia / tusculum,3,0,1,1
+2016,1,fay apartments,15,0,2,1
+2016,1,hartwell,20,0,2,1
+2016,1,queensgate,30,0,3,4
+2016,1,carthage,25,0,2,1
+2016,1,english  woods,13,0,1,1
+2016,1,kennedy  heights,21,0,2,2
+2016,1,sayler  park,19,0,2,3
+2016,1,mt.  lookout,13,0,1,2
+2016,1,california,1,0,1,1
+2016,1,paddock  hills,20,0,2,4
+2016,1,pendleton,16,0,2,3
+2016,1,linwood,6,0,1,3
+2016,4,c. b. d. / riverfront,120,0,4,2
+2016,4,west  end,97,0,4,3
+2016,4,east  westwood,25,0,2,4
+2016,4,camp  washington,17,0,1,1
+2016,4,east price hill,144,0,4,1
+2016,4,avondale,118,0,4,2
+2016,4,mount airy,82,0,4,3
+2016,4,mount  auburn,51,0,3,3
+2016,4,west price hill,167,0,4,2
+2016,4,sedamsville,12,0,1,2
+2016,4,westwood,239,0,4,1
+2016,4,over-the-rhine,138,1,4,3
+2016,4,evanston,51,0,3,2
+2016,4,s.. cumminsville,7,0,1,2
+2016,4,northside,49,0,3,1
+2016,4,winton hills,54,0,4,2
+2016,4,college  hill,81,0,4,2
+2016,4,madisonville,42,0,3,1
+2016,4,lower price  hill,17,0,1,1
+2016,4,o'bryonville,1,0,1,1
+2016,4,hyde park,24,0,2,1
+2016,4,riverside,19,0,2,4
+2016,4,mount  adams,13,0,1,2
+2016,4,pleasant ridge,37,0,3,2
+2016,4,roselawn,57,1,4,2
+2016,4,oakley,64,0,4,3
+2016,4,north fairmount,7,0,1,1
+2016,4,bondhill,48,2,3,1
+2016,4,south  fairmount,36,0,3,1
+2016,4,spring grove village,19,0,2,1
+2016,4,clifton,32,0,3,1
+2016,4,-,2,0,1,1
+2016,4,millvale,27,2,2,3
+2016,4,fairview,62,0,4,2
+2016,4,clifton/university heights,27,0,2,1
+2016,4,north avondale,39,0,3,1
+2016,4,walnut hills,104,0,4,2
+2016,4,corryville,27,0,2,1
+2016,4,east  end,17,0,1,2
+2016,4,east walnut hills,18,0,2,1
+2016,4,mt.  washington,39,0,3,2
+2016,4,columbia / tusculum,7,0,1,1
+2016,4,fay apartments,19,0,2,1
+2016,4,hartwell,30,0,3,3
+2016,4,queensgate,25,0,2,4
+2016,4,carthage,30,0,3,2
+2016,4,english  woods,21,0,2,4
+2016,4,kennedy  heights,12,0,1,1
+2016,4,sayler  park,24,0,2,4
+2016,4,mt.  lookout,7,0,1,1
+2016,4,california,5,0,1,3
+2016,4,paddock  hills,20,0,2,4
+2016,4,pendleton,13,0,1,2
+2016,4,linwood,2,0,1,1
+2012,2,c. b. d. / riverfront,111,0,4,1
+2012,2,west  end,74,0,4,1
+2012,2,east  westwood,14,0,1,1
+2012,2,camp  washington,24,0,2,3
+2012,2,east price hill,105,0,4,1
+2012,2,avondale,133,0,4,3
+2012,2,mount airy,49,0,3,1
+2012,2,mount  auburn,51,0,3,3
+2012,2,west price hill,124,0,4,1
+2012,2,sedamsville,13,0,1,3
+2012,2,westwood,235,0,4,1
+2012,2,over-the-rhine,107,0,4,1
+2012,2,evanston,50,0,3,2
+2012,2,s.. cumminsville,5,0,1,1
+2012,2,northside,67,0,4,2
+2012,2,winton hills,52,0,3,2
+2012,2,college  hill,61,0,4,1
+2012,2,madisonville,68,0,4,3
+2012,2,lower price  hill,25,0,2,3
+2012,2,o'bryonville,1,0,1,1
+2012,2,hyde park,18,0,2,1
+2012,2,riverside,16,0,2,3
+2012,2,mount  adams,8,0,1,1
+2012,2,pleasant ridge,24,0,2,1
+2012,2,roselawn,49,0,3,1
+2012,2,oakley,47,0,3,1
+2012,2,north fairmount,13,0,1,2
+2012,2,bondhill,54,1,4,2
+2012,2,south  fairmount,56,0,4,3
+2012,2,spring grove village,31,0,3,3
+2012,2,clifton,49,0,3,2
+2012,2,-,14,0,1,4
+2012,2,millvale,20,0,2,1
+2012,2,fairview,54,0,4,1
+2012,2,clifton/university heights,42,0,3,2
+2012,2,north avondale,46,0,3,3
+2012,2,walnut hills,80,1,4,1
+2012,2,corryville,35,0,3,1
+2012,2,east  end,24,0,2,4
+2012,2,east walnut hills,20,0,2,2
+2012,2,mt.  washington,39,0,3,2
+2012,2,columbia / tusculum,26,0,2,4
+2012,2,fay apartments,23,0,2,2
+2012,2,hartwell,21,0,2,1
+2012,2,queensgate,15,0,2,1
+2012,2,carthage,34,0,3,2
+2012,2,english  woods,10,0,1,1
+2012,2,kennedy  heights,23,0,2,3
+2012,2,sayler  park,11,0,1,1
+2012,2,mt.  lookout,8,0,1,1
+2012,2,california,4,0,1,3
+2012,2,paddock  hills,14,0,1,2
+2012,2,pendleton,5,0,1,1
+2012,2,linwood,9,0,1,4
+2012,8,c. b. d. / riverfront,165,0,4,4
+2012,8,west  end,85,0,4,2
+2012,8,east  westwood,17,0,1,2
+2012,8,camp  washington,33,0,2,4
+2012,8,east price hill,204,1,4,4
+2012,8,avondale,192,0,4,4
+2012,8,mount airy,88,0,4,4
+2012,8,mount  auburn,50,0,3,3
+2012,8,west price hill,206,0,4,4
+2012,8,sedamsville,27,0,2,4
+2012,8,westwood,329,1,4,4
+2012,8,over-the-rhine,160,0,4,4
+2012,8,evanston,83,0,4,4
+2012,8,s.. cumminsville,10,0,1,3
+2012,8,northside,84,0,4,3
+2012,8,winton hills,81,0,4,4
+2012,8,college  hill,95,0,4,4
+2012,8,madisonville,70,0,3,3
+2012,8,lower price  hill,29,0,2,4
+2012,8,o'bryonville,8,0,1,4
+2012,8,hyde park,37,0,2,3
+2012,8,riverside,16,0,1,3
+2012,8,mount  adams,28,0,2,4
+2012,8,pleasant ridge,44,0,3,3
+2012,8,roselawn,68,0,3,3
+2012,8,oakley,75,0,3,4
+2012,8,north fairmount,14,0,1,3
+2012,8,bondhill,79,0,3,4
+2012,8,south  fairmount,69,0,3,4
+2012,8,spring grove village,47,0,3,4
+2012,8,clifton,70,0,3,4
+2012,8,-,21,1,1,4
+2012,8,millvale,21,0,1,2
+2012,8,fairview,104,0,4,4
+2012,8,clifton/university heights,41,0,2,2
+2012,8,north avondale,41,0,2,2
+2012,8,walnut hills,147,1,4,4
+2012,8,corryville,55,0,3,4
+2012,8,east  end,32,0,2,4
+2012,8,east walnut hills,31,0,2,4
+2012,8,mt.  washington,75,0,3,4
+2012,8,columbia / tusculum,23,0,2,4
+2012,8,fay apartments,29,1,2,3
+2012,8,hartwell,40,0,2,4
+2012,8,queensgate,21,0,1,2
+2012,8,carthage,47,0,3,4
+2012,8,english  woods,26,0,2,4
+2012,8,kennedy  heights,33,0,2,4
+2012,8,sayler  park,19,0,1,3
+2012,8,mt.  lookout,12,0,1,2
+2012,8,california,5,0,1,3
+2012,8,paddock  hills,19,0,1,3
+2012,8,pendleton,16,0,1,3
+2012,8,linwood,9,0,1,4
+2012,6,c. b. d. / riverfront,128,0,4,2
+2012,6,west  end,81,0,4,2
+2012,6,east  westwood,16,0,1,2
+2012,6,camp  washington,21,0,2,2
+2012,6,east price hill,174,0,4,3
+2012,6,avondale,169,0,4,4
+2012,6,mount airy,93,0,4,4
+2012,6,mount  auburn,58,0,3,3
+2012,6,west price hill,236,0,4,4
+2012,6,sedamsville,18,0,1,4
+2012,6,westwood,311,0,4,3
+2012,6,over-the-rhine,123,1,4,2
+2012,6,evanston,74,0,3,4
+2012,6,s.. cumminsville,8,0,1,2
+2012,6,northside,100,0,4,4
+2012,6,winton hills,69,0,3,4
+2012,6,college  hill,83,0,4,3
+2012,6,madisonville,99,0,4,4
+2012,6,lower price  hill,25,1,2,3
+2012,6,o'bryonville,4,0,1,3
+2012,6,hyde park,42,0,3,4
+2012,6,riverside,19,0,1,4
+2012,6,mount  adams,19,0,1,4
+2012,6,pleasant ridge,41,0,2,3
+2012,6,roselawn,91,0,4,4
+2012,6,oakley,55,0,3,2
+2012,6,north fairmount,12,0,1,2
+2012,6,bondhill,48,0,3,1
+2012,6,south  fairmount,74,0,3,4
+2012,6,spring grove village,42,0,3,4
+2012,6,clifton,63,0,3,3
+2012,6,-,42,0,3,4
+2012,6,millvale,35,0,2,4
+2012,6,fairview,45,0,3,1
+2012,6,clifton/university heights,27,0,2,1
+2012,6,north avondale,50,0,3,3
+2012,6,walnut hills,142,0,4,4
+2012,6,corryville,49,0,3,3
+2012,6,east  end,23,0,2,3
+2012,6,east walnut hills,29,0,2,3
+2012,6,mt.  washington,44,0,3,2
+2012,6,columbia / tusculum,14,0,1,3
+2012,6,fay apartments,20,0,2,1
+2012,6,hartwell,33,0,2,3
+2012,6,queensgate,16,0,1,1
+2012,6,carthage,41,0,2,3
+2012,6,english  woods,29,0,2,4
+2012,6,kennedy  heights,30,0,2,4
+2012,6,sayler  park,16,0,1,2
+2012,6,mt.  lookout,4,0,1,1
+2012,6,california,11,0,1,4
+2012,6,paddock  hills,19,0,1,3
+2012,6,pendleton,12,0,1,2
+2012,6,linwood,5,0,1,2
+2012,9,c. b. d. / riverfront,140,0,4,3
+2012,9,west  end,123,0,4,4
+2012,9,east  westwood,15,0,1,1
+2012,9,camp  washington,37,0,3,4
+2012,9,east price hill,203,1,4,4
+2012,9,avondale,139,0,4,3
+2012,9,mount airy,103,1,4,4
+2012,9,mount  auburn,73,0,3,4
+2012,9,west price hill,186,0,4,3
+2012,9,sedamsville,12,0,1,2
+2012,9,westwood,278,0,4,2
+2012,9,over-the-rhine,144,0,4,3
+2012,9,evanston,81,0,4,4
+2012,9,s.. cumminsville,9,0,1,3
+2012,9,northside,91,1,4,3
+2012,9,winton hills,64,0,3,3
+2012,9,college  hill,99,0,4,4
+2012,9,madisonville,74,0,3,4
+2012,9,lower price  hill,21,0,2,2
+2012,9,o'bryonville,6,0,1,4
+2012,9,hyde park,28,0,2,1
+2012,9,riverside,19,0,1,4
+2012,9,mount  adams,18,0,1,4
+2012,9,pleasant ridge,41,0,3,3
+2012,9,roselawn,57,0,3,2
+2012,9,oakley,59,0,3,2
+2012,9,north fairmount,13,0,1,2
+2012,9,bondhill,67,0,3,3
+2012,9,south  fairmount,63,0,3,3
+2012,9,spring grove village,29,0,2,3
+2012,9,clifton,88,0,4,4
+2012,9,-,20,1,2,4
+2012,9,millvale,27,0,2,3
+2012,9,fairview,81,0,4,4
+2012,9,clifton/university heights,57,0,3,4
+2012,9,north avondale,53,0,3,4
+2012,9,walnut hills,137,0,4,4
+2012,9,corryville,53,1,3,3
+2012,9,east  end,26,0,2,4
+2012,9,east walnut hills,33,0,2,4
+2012,9,mt.  washington,57,0,3,4
+2012,9,columbia / tusculum,19,0,1,4
+2012,9,fay apartments,20,0,2,1
+2012,9,hartwell,20,0,2,1
+2012,9,queensgate,22,0,2,3
+2012,9,carthage,28,0,2,1
+2012,9,english  woods,19,1,1,3
+2012,9,kennedy  heights,19,0,1,2
+2012,9,sayler  park,19,0,1,3
+2012,9,mt.  lookout,10,0,1,1
+2012,9,california,4,0,1,3
+2012,9,paddock  hills,17,0,1,3
+2012,9,pendleton,18,0,1,4
+2012,9,linwood,5,0,1,2
+2012,5,c. b. d. / riverfront,152,0,4,4
+2012,5,west  end,104,0,4,4
+2012,5,east  westwood,21,0,1,3
+2012,5,camp  washington,23,0,2,2
+2012,5,east price hill,163,2,4,2
+2012,5,avondale,160,0,4,4
+2012,5,mount airy,112,0,4,4
+2012,5,mount  auburn,55,0,3,3
+2012,5,west price hill,181,0,4,3
+2012,5,sedamsville,15,0,1,3
+2012,5,westwood,296,0,4,3
+2012,5,over-the-rhine,143,0,4,3
+2012,5,evanston,77,1,4,4
+2012,5,s.. cumminsville,10,0,1,3
+2012,5,northside,95,0,4,4
+2012,5,winton hills,59,1,3,3
+2012,5,college  hill,95,0,4,4
+2012,5,madisonville,87,0,4,4
+2012,5,lower price  hill,25,0,2,3
+2012,5,o'bryonville,0,0,1,1
+2012,5,hyde park,39,0,2,3
+2012,5,riverside,15,0,1,3
+2012,5,mount  adams,14,0,1,3
+2012,5,pleasant ridge,32,0,2,1
+2012,5,roselawn,54,0,3,2
+2012,5,oakley,63,0,3,3
+2012,5,north fairmount,18,0,1,4
+2012,5,bondhill,55,1,3,2
+2012,5,south  fairmount,68,0,3,4
+2012,5,spring grove village,38,0,2,4
+2012,5,clifton,63,0,3,3
+2012,5,-,69,0,3,4
+2012,5,millvale,39,0,2,4
+2012,5,fairview,85,0,4,4
+2012,5,clifton/university heights,46,0,3,2
+2012,5,north avondale,51,0,3,3
+2012,5,walnut hills,142,1,4,4
+2012,5,corryville,32,0,2,1
+2012,5,east  end,22,0,2,3
+2012,5,east walnut hills,37,0,2,4
+2012,5,mt.  washington,48,0,3,3
+2012,5,columbia / tusculum,14,0,1,3
+2012,5,fay apartments,42,0,3,4
+2012,5,hartwell,23,0,2,1
+2012,5,queensgate,15,0,1,1
+2012,5,carthage,62,0,3,4
+2012,5,english  woods,31,0,2,4
+2012,5,kennedy  heights,28,0,2,4
+2012,5,sayler  park,17,0,1,2
+2012,5,mt.  lookout,16,0,1,3
+2012,5,california,7,0,1,4
+2012,5,paddock  hills,22,0,2,4
+2012,5,pendleton,12,0,1,2
+2012,5,linwood,14,0,1,4
+2012,3,c. b. d. / riverfront,116,0,4,1
+2012,3,west  end,98,0,4,3
+2012,3,east  westwood,25,0,2,4
+2012,3,camp  washington,35,0,3,4
+2012,3,east price hill,178,1,4,3
+2012,3,avondale,140,0,4,3
+2012,3,mount airy,74,0,4,2
+2012,3,mount  auburn,41,0,3,1
+2012,3,west price hill,178,0,4,2
+2012,3,sedamsville,14,0,1,3
+2012,3,westwood,253,0,4,1
+2012,3,over-the-rhine,129,0,4,2
+2012,3,evanston,85,0,4,4
+2012,3,s.. cumminsville,5,0,1,1
+2012,3,northside,76,0,4,3
+2012,3,winton hills,56,0,3,2
+2012,3,college  hill,70,0,4,1
+2012,3,madisonville,75,0,4,4
+2012,3,lower price  hill,27,0,2,4
+2012,3,o'bryonville,6,0,1,4
+2012,3,hyde park,26,0,2,1
+2012,3,riverside,15,0,1,3
+2012,3,mount  adams,7,0,1,1
+2012,3,pleasant ridge,35,0,3,2
+2012,3,roselawn,66,0,3,3
+2012,3,oakley,69,0,3,3
+2012,3,north fairmount,15,0,1,3
+2012,3,bondhill,54,0,3,2
+2012,3,south  fairmount,69,0,3,4
+2012,3,spring grove village,39,0,3,4
+2012,3,clifton,57,1,3,3
+2012,3,-,9,0,1,3
+2012,3,millvale,18,0,2,1
+2012,3,fairview,78,0,4,3
+2012,3,clifton/university heights,41,0,3,2
+2012,3,north avondale,51,0,3,3
+2012,3,walnut hills,107,0,4,3
+2012,3,corryville,42,0,3,2
+2012,3,east  end,29,0,2,4
+2012,3,east walnut hills,27,0,2,3
+2012,3,mt.  washington,32,0,2,1
+2012,3,columbia / tusculum,15,0,1,3
+2012,3,fay apartments,29,0,2,3
+2012,3,hartwell,28,0,2,2
+2012,3,queensgate,22,0,2,3
+2012,3,carthage,25,0,2,1
+2012,3,english  woods,15,0,1,2
+2012,3,kennedy  heights,20,0,2,2
+2012,3,sayler  park,19,0,2,3
+2012,3,mt.  lookout,13,0,1,2
+2012,3,california,0,0,1,1
+2012,3,paddock  hills,14,0,1,2
+2012,3,pendleton,11,0,1,1
+2012,3,linwood,4,0,1,1
+2012,11,c. b. d. / riverfront,116,0,4,1
+2012,11,west  end,82,0,4,2
+2012,11,east  westwood,23,0,2,3
+2012,11,camp  washington,24,0,2,3
+2012,11,east price hill,170,2,4,3
+2012,11,avondale,136,0,4,3
+2012,11,mount airy,66,0,3,1
+2012,11,mount  auburn,69,0,4,4
+2012,11,west price hill,161,0,4,1
+2012,11,sedamsville,11,0,1,2
+2012,11,westwood,284,1,4,3
+2012,11,over-the-rhine,181,0,4,4
+2012,11,evanston,59,0,3,3
+2012,11,s.. cumminsville,6,0,1,1
+2012,11,northside,67,1,3,2
+2012,11,winton hills,60,0,3,3
+2012,11,college  hill,68,0,4,1
+2012,11,madisonville,75,0,4,4
+2012,11,lower price  hill,18,0,1,2
+2012,11,o'bryonville,9,0,1,4
+2012,11,hyde park,44,0,3,4
+2012,11,riverside,13,0,1,2
+2012,11,mount  adams,18,0,1,4
+2012,11,pleasant ridge,37,0,3,2
+2012,11,roselawn,89,0,4,4
+2012,11,oakley,67,0,3,3
+2012,11,north fairmount,8,0,1,1
+2012,11,bondhill,72,0,4,4
+2012,11,south  fairmount,46,1,3,1
+2012,11,spring grove village,25,0,2,2
+2012,11,clifton,47,0,3,2
+2012,11,-,25,0,2,4
+2012,11,millvale,21,0,2,2
+2012,11,fairview,71,0,4,3
+2012,11,clifton/university heights,56,0,3,4
+2012,11,north avondale,45,1,3,2
+2012,11,walnut hills,120,0,4,4
+2012,11,corryville,52,1,3,3
+2012,11,east  end,23,0,2,3
+2012,11,east walnut hills,36,0,2,4
+2012,11,mt.  washington,47,0,3,3
+2012,11,columbia / tusculum,9,0,1,1
+2012,11,fay apartments,25,0,2,3
+2012,11,hartwell,28,0,2,2
+2012,11,queensgate,17,0,1,2
+2012,11,carthage,30,0,2,2
+2012,11,english  woods,15,0,1,2
+2012,11,kennedy  heights,19,0,2,2
+2012,11,sayler  park,11,0,1,1
+2012,11,mt.  lookout,20,0,2,4
+2012,11,california,4,0,1,3
+2012,11,paddock  hills,25,0,2,4
+2012,11,pendleton,12,0,1,2
+2012,11,linwood,2,0,1,1
+2012,12,c. b. d. / riverfront,86,0,4,1
+2012,12,west  end,63,0,4,1
+2012,12,east  westwood,22,0,2,3
+2012,12,camp  washington,25,0,2,3
+2012,12,east price hill,144,0,4,1
+2012,12,avondale,150,0,4,4
+2012,12,mount airy,82,0,4,3
+2012,12,mount  auburn,43,0,3,2
+2012,12,west price hill,153,0,4,1
+2012,12,sedamsville,13,0,1,3
+2012,12,westwood,275,1,4,2
+2012,12,over-the-rhine,111,0,4,1
+2012,12,evanston,39,0,3,1
+2012,12,s.. cumminsville,8,0,1,2
+2012,12,northside,74,0,4,2
+2012,12,winton hills,49,0,3,1
+2012,12,college  hill,98,0,4,4
+2012,12,madisonville,78,0,4,4
+2012,12,lower price  hill,29,1,2,4
+2012,12,o'bryonville,1,0,1,1
+2012,12,hyde park,24,0,2,1
+2012,12,riverside,10,0,1,1
+2012,12,mount  adams,12,0,1,2
+2012,12,pleasant ridge,51,0,3,4
+2012,12,roselawn,76,0,4,4
+2012,12,oakley,57,0,3,2
+2012,12,north fairmount,10,0,1,1
+2012,12,bondhill,59,0,3,2
+2012,12,south  fairmount,59,0,3,3
+2012,12,spring grove village,37,0,3,4
+2012,12,clifton,48,0,3,2
+2012,12,-,24,1,2,4
+2012,12,millvale,29,0,2,3
+2012,12,fairview,63,0,4,3
+2012,12,clifton/university heights,54,0,3,3
+2012,12,north avondale,45,0,3,2
+2012,12,walnut hills,100,0,4,2
+2012,12,corryville,43,0,3,2
+2012,12,east  end,16,0,1,2
+2012,12,east walnut hills,20,0,2,2
+2012,12,mt.  washington,59,0,3,4
+2012,12,columbia / tusculum,12,0,1,2
+2012,12,fay apartments,21,0,2,2
+2012,12,hartwell,26,0,2,2
+2012,12,queensgate,22,0,2,3
+2012,12,carthage,35,0,2,3
+2012,12,english  woods,15,0,1,2
+2012,12,kennedy  heights,19,0,2,2
+2012,12,sayler  park,12,0,1,1
+2012,12,mt.  lookout,15,0,1,3
+2012,12,california,2,0,1,2
+2012,12,paddock  hills,17,0,2,3
+2012,12,pendleton,8,0,1,1
+2012,12,linwood,6,0,1,3
+2012,7,c. b. d. / riverfront,161,0,4,4
+2012,7,west  end,84,0,4,2
+2012,7,east  westwood,25,0,2,4
+2012,7,camp  washington,28,0,2,3
+2012,7,east price hill,225,0,4,4
+2012,7,avondale,153,0,4,4
+2012,7,mount airy,96,0,4,4
+2012,7,mount  auburn,73,0,4,4
+2012,7,west price hill,244,1,4,4
+2012,7,sedamsville,14,0,1,3
+2012,7,westwood,317,0,4,4
+2012,7,over-the-rhine,132,0,4,2
+2012,7,evanston,70,0,3,4
+2012,7,s.. cumminsville,16,0,1,4
+2012,7,northside,112,0,4,4
+2012,7,winton hills,66,0,3,3
+2012,7,college  hill,87,0,4,3
+2012,7,madisonville,65,0,3,3
+2012,7,lower price  hill,33,0,2,4
+2012,7,o'bryonville,8,0,1,4
+2012,7,hyde park,30,0,2,2
+2012,7,riverside,15,0,1,3
+2012,7,mount  adams,14,0,1,3
+2012,7,pleasant ridge,55,0,3,4
+2012,7,roselawn,66,0,3,3
+2012,7,oakley,80,0,4,4
+2012,7,north fairmount,12,0,1,2
+2012,7,bondhill,50,0,3,1
+2012,7,south  fairmount,77,0,4,4
+2012,7,spring grove village,46,0,3,4
+2012,7,clifton,51,0,3,2
+2012,7,-,23,1,2,4
+2012,7,millvale,20,1,2,1
+2012,7,fairview,70,0,3,3
+2012,7,clifton/university heights,30,0,2,1
+2012,7,north avondale,47,0,3,3
+2012,7,walnut hills,130,0,4,4
+2012,7,corryville,50,0,3,3
+2012,7,east  end,26,0,2,4
+2012,7,east walnut hills,22,0,2,2
+2012,7,mt.  washington,65,0,3,4
+2012,7,columbia / tusculum,23,0,2,4
+2012,7,fay apartments,37,0,3,4
+2012,7,hartwell,29,0,2,3
+2012,7,queensgate,18,0,1,2
+2012,7,carthage,30,0,2,2
+2012,7,english  woods,19,0,1,3
+2012,7,kennedy  heights,21,0,2,2
+2012,7,sayler  park,16,0,1,2
+2012,7,mt.  lookout,5,0,1,1
+2012,7,california,5,0,1,3
+2012,7,paddock  hills,14,0,1,2
+2012,7,pendleton,16,0,1,3
+2012,7,linwood,3,0,1,1
+2012,10,c. b. d. / riverfront,162,0,4,4
+2012,10,west  end,114,0,4,4
+2012,10,east  westwood,25,0,2,4
+2012,10,camp  washington,29,0,2,3
+2012,10,east price hill,182,0,4,4
+2012,10,avondale,164,0,4,4
+2012,10,mount airy,82,0,4,3
+2012,10,mount  auburn,53,0,3,3
+2012,10,west price hill,203,0,4,4
+2012,10,sedamsville,13,0,1,3
+2012,10,westwood,323,0,4,4
+2012,10,over-the-rhine,161,1,4,4
+2012,10,evanston,55,0,3,2
+2012,10,s.. cumminsville,10,0,1,3
+2012,10,northside,86,0,4,3
+2012,10,winton hills,50,0,3,2
+2012,10,college  hill,88,0,4,3
+2012,10,madisonville,60,0,3,2
+2012,10,lower price  hill,30,0,2,4
+2012,10,o'bryonville,9,0,1,4
+2012,10,hyde park,40,0,2,3
+2012,10,riverside,13,0,1,2
+2012,10,mount  adams,21,0,2,4
+2012,10,pleasant ridge,50,0,3,4
+2012,10,roselawn,87,0,4,4
+2012,10,oakley,78,0,3,4
+2012,10,north fairmount,8,0,1,1
+2012,10,bondhill,62,0,3,3
+2012,10,south  fairmount,91,0,4,4
+2012,10,spring grove village,48,0,3,4
+2012,10,clifton,72,0,3,4
+2012,10,-,26,1,2,4
+2012,10,millvale,16,0,1,1
+2012,10,fairview,81,0,4,4
+2012,10,clifton/university heights,59,0,3,4
+2012,10,north avondale,68,0,3,4
+2012,10,walnut hills,112,2,4,3
+2012,10,corryville,72,0,3,4
+2012,10,east  end,22,0,2,3
+2012,10,east walnut hills,29,0,2,3
+2012,10,mt.  washington,42,0,3,2
+2012,10,columbia / tusculum,16,0,1,3
+2012,10,fay apartments,20,0,1,1
+2012,10,hartwell,32,0,2,3
+2012,10,queensgate,16,0,1,1
+2012,10,carthage,39,0,2,3
+2012,10,english  woods,23,0,2,4
+2012,10,kennedy  heights,22,0,2,3
+2012,10,sayler  park,19,0,1,3
+2012,10,mt.  lookout,20,0,1,4
+2012,10,california,3,0,1,2
+2012,10,paddock  hills,24,0,2,4
+2012,10,pendleton,11,0,1,1
+2012,10,linwood,10,0,1,4
+2012,1,c. b. d. / riverfront,146,0,4,3
+2012,1,west  end,71,0,4,1
+2012,1,east  westwood,22,0,2,3
+2012,1,camp  washington,20,1,2,2
+2012,1,east price hill,157,0,4,2
+2012,1,avondale,122,0,4,2
+2012,1,mount airy,83,0,4,3
+2012,1,mount  auburn,52,1,3,3
+2012,1,west price hill,166,0,4,2
+2012,1,sedamsville,12,0,1,2
+2012,1,westwood,260,0,4,1
+2012,1,over-the-rhine,112,0,4,1
+2012,1,evanston,63,0,3,3
+2012,1,s.. cumminsville,11,0,1,3
+2012,1,northside,66,0,3,2
+2012,1,winton hills,66,0,3,3
+2012,1,college  hill,78,0,4,2
+2012,1,madisonville,75,0,4,4
+2012,1,lower price  hill,15,0,1,1
+2012,1,o'bryonville,3,0,1,2
+2012,1,hyde park,28,0,2,1
+2012,1,riverside,15,0,1,3
+2012,1,mount  adams,8,0,1,1
+2012,1,pleasant ridge,44,0,3,3
+2012,1,roselawn,84,0,4,4
+2012,1,oakley,66,0,3,3
+2012,1,north fairmount,4,0,1,1
+2012,1,bondhill,57,1,3,2
+2012,1,south  fairmount,48,0,3,2
+2012,1,spring grove village,22,0,2,2
+2012,1,clifton,53,0,3,2
+2012,1,-,14,0,1,4
+2012,1,millvale,27,1,2,3
+2012,1,fairview,73,0,4,3
+2012,1,clifton/university heights,49,0,3,3
+2012,1,north avondale,31,0,2,1
+2012,1,walnut hills,106,1,4,2
+2012,1,corryville,32,0,2,1
+2012,1,east  end,22,0,2,3
+2012,1,east walnut hills,25,0,2,3
+2012,1,mt.  washington,41,0,3,2
+2012,1,columbia / tusculum,22,0,2,4
+2012,1,fay apartments,22,0,2,2
+2012,1,hartwell,42,0,3,4
+2012,1,queensgate,11,0,1,1
+2012,1,carthage,44,0,3,4
+2012,1,english  woods,17,0,1,3
+2012,1,kennedy  heights,32,0,2,4
+2012,1,sayler  park,18,0,2,2
+2012,1,mt.  lookout,11,0,1,1
+2012,1,california,2,0,1,2
+2012,1,paddock  hills,20,0,2,4
+2012,1,pendleton,14,0,1,2
+2012,1,linwood,8,0,1,3
+2012,4,c. b. d. / riverfront,119,0,4,2
+2012,4,west  end,93,0,4,3
+2012,4,east  westwood,13,0,1,1
+2012,4,camp  washington,33,0,2,4
+2012,4,east price hill,162,1,4,2
+2012,4,avondale,149,0,4,4
+2012,4,mount airy,95,0,4,4
+2012,4,mount  auburn,69,0,3,4
+2012,4,west price hill,184,0,4,3
+2012,4,sedamsville,16,0,1,4
+2012,4,westwood,267,0,4,2
+2012,4,over-the-rhine,121,1,4,2
+2012,4,evanston,65,0,3,3
+2012,4,s.. cumminsville,8,0,1,2
+2012,4,northside,70,0,4,2
+2012,4,winton hills,53,0,3,2
+2012,4,college  hill,78,0,4,2
+2012,4,madisonville,74,1,4,4
+2012,4,lower price  hill,32,0,2,4
+2012,4,o'bryonville,0,0,1,1
+2012,4,hyde park,29,0,2,2
+2012,4,riverside,14,0,1,3
+2012,4,mount  adams,7,0,1,1
+2012,4,pleasant ridge,43,0,3,3
+2012,4,roselawn,72,0,4,4
+2012,4,oakley,44,0,3,1
+2012,4,north fairmount,6,0,1,1
+2012,4,bondhill,49,0,3,1
+2012,4,south  fairmount,65,0,3,3
+2012,4,spring grove village,32,0,2,3
+2012,4,clifton,66,0,3,3
+2012,4,-,29,0,2,4
+2012,4,millvale,24,0,2,2
+2012,4,fairview,70,0,4,3
+2012,4,clifton/university heights,44,0,3,2
+2012,4,north avondale,57,0,3,4
+2012,4,walnut hills,110,1,4,3
+2012,4,corryville,48,0,3,3
+2012,4,east  end,22,0,2,3
+2012,4,east walnut hills,19,0,2,2
+2012,4,mt.  washington,34,0,2,1
+2012,4,columbia / tusculum,13,0,1,2
+2012,4,fay apartments,27,0,2,3
+2012,4,hartwell,41,0,3,4
+2012,4,queensgate,22,0,2,3
+2012,4,carthage,53,0,3,4
+2012,4,english  woods,10,0,1,1
+2012,4,kennedy  heights,23,0,2,3
+2012,4,sayler  park,36,0,2,4
+2012,4,mt.  lookout,9,0,1,1
+2012,4,california,3,0,1,2
+2012,4,paddock  hills,12,0,1,1
+2012,4,pendleton,8,0,1,1
+2012,4,linwood,6,0,1,3
+2015,2,c. b. d. / riverfront,59,0,4,1
+2015,2,west  end,70,0,4,1
+2015,2,east  westwood,14,0,2,1
+2015,2,camp  washington,15,0,2,1
+2015,2,east price hill,114,1,4,1
+2015,2,avondale,90,0,4,1
+2015,2,mount airy,44,0,4,1
+2015,2,mount  auburn,24,0,3,1
+2015,2,west price hill,120,0,4,1
+2015,2,sedamsville,4,0,1,1
+2015,2,westwood,220,2,4,1
+2015,2,over-the-rhine,90,0,4,1
+2015,2,evanston,28,0,3,1
+2015,2,s.. cumminsville,5,0,1,1
+2015,2,northside,64,0,4,1
+2015,2,winton hills,25,0,3,1
+2015,2,college  hill,48,0,4,1
+2015,2,madisonville,43,0,3,1
+2015,2,lower price  hill,11,0,1,1
+2015,2,o'bryonville,1,0,1,1
+2015,2,hyde park,20,0,2,1
+2015,2,riverside,4,0,1,1
+2015,2,mount  adams,8,0,1,1
+2015,2,pleasant ridge,18,0,2,1
+2015,2,roselawn,35,0,3,1
+2015,2,oakley,38,0,3,1
+2015,2,north fairmount,15,0,2,3
+2015,2,bondhill,39,0,3,1
+2015,2,south  fairmount,47,0,4,1
+2015,2,spring grove village,18,0,2,1
+2015,2,clifton,43,0,3,1
+2015,2,-,2,0,1,1
+2015,2,millvale,29,0,3,3
+2015,2,fairview,61,0,4,2
+2015,2,clifton/university heights,27,0,3,1
+2015,2,north avondale,33,0,3,1
+2015,2,walnut hills,79,0,4,1
+2015,2,corryville,37,0,3,2
+2015,2,east  end,12,0,1,1
+2015,2,east walnut hills,21,0,2,2
+2015,2,mt.  washington,28,0,3,1
+2015,2,columbia / tusculum,12,0,1,2
+2015,2,fay apartments,19,0,2,1
+2015,2,hartwell,23,0,2,1
+2015,2,queensgate,8,0,1,1
+2015,2,carthage,33,0,3,2
+2015,2,english  woods,9,0,1,1
+2015,2,kennedy  heights,17,0,2,1
+2015,2,sayler  park,19,0,2,3
+2015,2,mt.  lookout,13,0,2,2
+2015,2,california,2,0,1,2
+2015,2,paddock  hills,4,0,1,1
+2015,2,pendleton,10,0,1,1
+2015,2,linwood,5,0,1,2
+2015,8,c. b. d. / riverfront,122,0,4,2
+2015,8,west  end,103,0,4,4
+2015,8,east  westwood,23,0,2,3
+2015,8,camp  washington,33,0,2,4
+2015,8,east price hill,177,0,4,3
+2015,8,avondale,132,0,4,3
+2015,8,mount airy,77,0,4,3
+2015,8,mount  auburn,64,0,3,4
+2015,8,west price hill,173,0,4,2
+2015,8,sedamsville,9,0,1,1
+2015,8,westwood,326,0,4,4
+2015,8,over-the-rhine,161,0,4,4
+2015,8,evanston,54,0,3,2
+2015,8,s.. cumminsville,8,0,1,2
+2015,8,northside,81,0,4,3
+2015,8,winton hills,59,0,3,3
+2015,8,college  hill,69,0,4,1
+2015,8,madisonville,64,1,3,3
+2015,8,lower price  hill,17,0,1,1
+2015,8,o'bryonville,3,0,1,2
+2015,8,hyde park,53,0,3,4
+2015,8,riverside,11,0,1,2
+2015,8,mount  adams,17,0,1,3
+2015,8,pleasant ridge,42,0,2,3
+2015,8,roselawn,62,0,3,3
+2015,8,oakley,66,0,4,3
+2015,8,north fairmount,12,0,1,2
+2015,8,bondhill,83,0,4,4
+2015,8,south  fairmount,49,0,3,2
+2015,8,spring grove village,21,0,2,1
+2015,8,clifton,54,0,3,2
+2015,8,-,2,0,1,1
+2015,8,millvale,25,0,2,3
+2015,8,fairview,75,0,4,3
+2015,8,clifton/university heights,56,0,3,4
+2015,8,north avondale,49,1,3,3
+2015,8,walnut hills,110,0,4,3
+2015,8,corryville,44,0,3,2
+2015,8,east  end,27,0,2,4
+2015,8,east walnut hills,22,0,2,2
+2015,8,mt.  washington,49,0,3,3
+2015,8,columbia / tusculum,13,0,1,2
+2015,8,fay apartments,20,0,2,1
+2015,8,hartwell,41,0,2,4
+2015,8,queensgate,27,0,2,4
+2015,8,carthage,58,0,3,4
+2015,8,english  woods,21,0,2,4
+2015,8,kennedy  heights,18,0,2,2
+2015,8,sayler  park,35,0,2,4
+2015,8,mt.  lookout,16,0,1,3
+2015,8,california,3,0,1,2
+2015,8,paddock  hills,14,0,1,2
+2015,8,pendleton,15,0,1,3
+2015,8,linwood,0,0,1,1
+2015,6,c. b. d. / riverfront,144,0,4,3
+2015,6,west  end,94,0,4,3
+2015,6,east  westwood,14,0,1,1
+2015,6,camp  washington,24,0,2,3
+2015,6,east price hill,157,1,4,2
+2015,6,avondale,121,1,4,2
+2015,6,mount airy,72,1,4,2
+2015,6,mount  auburn,42,0,3,1
+2015,6,west price hill,174,0,4,2
+2015,6,sedamsville,16,0,2,4
+2015,6,westwood,317,0,4,4
+2015,6,over-the-rhine,133,1,4,2
+2015,6,evanston,49,1,3,1
+2015,6,s.. cumminsville,7,1,1,2
+2015,6,northside,96,0,4,4
+2015,6,winton hills,62,0,3,3
+2015,6,college  hill,83,0,4,3
+2015,6,madisonville,63,0,3,2
+2015,6,lower price  hill,32,0,2,4
+2015,6,o'bryonville,0,0,1,1
+2015,6,hyde park,45,0,3,4
+2015,6,riverside,14,0,1,3
+2015,6,mount  adams,8,0,1,1
+2015,6,pleasant ridge,49,0,3,4
+2015,6,roselawn,47,0,3,1
+2015,6,oakley,61,0,3,2
+2015,6,north fairmount,8,0,1,1
+2015,6,bondhill,69,1,4,3
+2015,6,south  fairmount,65,0,4,3
+2015,6,spring grove village,17,0,2,1
+2015,6,clifton,48,0,3,2
+2015,6,-,1,0,1,1
+2015,6,millvale,43,0,3,4
+2015,6,fairview,39,0,3,1
+2015,6,clifton/university heights,33,0,3,1
+2015,6,north avondale,33,1,3,1
+2015,6,walnut hills,103,0,4,2
+2015,6,corryville,30,0,2,1
+2015,6,east  end,25,0,2,4
+2015,6,east walnut hills,13,0,1,1
+2015,6,mt.  washington,73,0,4,4
+2015,6,columbia / tusculum,21,0,2,4
+2015,6,fay apartments,21,0,2,2
+2015,6,hartwell,28,0,2,2
+2015,6,queensgate,30,0,2,4
+2015,6,carthage,27,0,2,1
+2015,6,english  woods,16,0,2,2
+2015,6,kennedy  heights,14,0,1,1
+2015,6,sayler  park,26,0,2,4
+2015,6,mt.  lookout,13,0,1,2
+2015,6,california,9,0,1,4
+2015,6,paddock  hills,11,0,1,1
+2015,6,pendleton,13,0,1,2
+2015,6,linwood,9,0,1,4
+2015,9,c. b. d. / riverfront,151,0,4,4
+2015,9,west  end,86,0,4,2
+2015,9,east  westwood,17,0,2,2
+2015,9,camp  washington,29,0,2,3
+2015,9,east price hill,165,0,4,3
+2015,9,avondale,137,0,4,3
+2015,9,mount airy,67,0,3,2
+2015,9,mount  auburn,59,1,3,4
+2015,9,west price hill,174,0,4,2
+2015,9,sedamsville,16,0,1,4
+2015,9,westwood,361,0,4,4
+2015,9,over-the-rhine,151,0,4,3
+2015,9,evanston,42,0,3,1
+2015,9,s.. cumminsville,12,0,1,4
+2015,9,northside,74,0,4,2
+2015,9,winton hills,49,0,3,1
+2015,9,college  hill,79,1,4,2
+2015,9,madisonville,67,0,3,3
+2015,9,lower price  hill,14,0,1,1
+2015,9,o'bryonville,6,0,1,4
+2015,9,hyde park,43,0,3,4
+2015,9,riverside,12,0,1,2
+2015,9,mount  adams,10,0,1,2
+2015,9,pleasant ridge,37,0,2,2
+2015,9,roselawn,61,0,3,2
+2015,9,oakley,68,0,4,3
+2015,9,north fairmount,9,0,1,1
+2015,9,bondhill,55,0,3,2
+2015,9,south  fairmount,71,0,4,4
+2015,9,spring grove village,24,0,2,2
+2015,9,clifton,41,0,3,1
+2015,9,-,1,0,1,1
+2015,9,millvale,28,0,2,3
+2015,9,fairview,84,0,4,4
+2015,9,clifton/university heights,53,0,3,3
+2015,9,north avondale,39,0,2,1
+2015,9,walnut hills,114,0,4,3
+2015,9,corryville,71,0,4,4
+2015,9,east  end,21,0,2,3
+2015,9,east walnut hills,32,0,2,4
+2015,9,mt.  washington,55,1,3,4
+2015,9,columbia / tusculum,11,0,1,2
+2015,9,fay apartments,24,0,2,3
+2015,9,hartwell,26,0,2,2
+2015,9,queensgate,42,0,3,4
+2015,9,carthage,55,0,3,4
+2015,9,english  woods,20,0,2,3
+2015,9,kennedy  heights,26,0,2,4
+2015,9,sayler  park,29,0,2,4
+2015,9,mt.  lookout,11,0,1,1
+2015,9,california,4,0,1,3
+2015,9,paddock  hills,15,0,1,2
+2015,9,pendleton,15,0,1,3
+2015,9,linwood,7,0,1,3
+2015,5,c. b. d. / riverfront,143,0,4,3
+2015,5,west  end,96,0,4,3
+2015,5,east  westwood,23,0,2,3
+2015,5,camp  washington,18,0,1,1
+2015,5,east price hill,180,0,4,4
+2015,5,avondale,128,0,4,2
+2015,5,mount airy,63,1,3,1
+2015,5,mount  auburn,36,0,2,1
+2015,5,west price hill,191,0,4,3
+2015,5,sedamsville,7,0,1,1
+2015,5,westwood,317,0,4,4
+2015,5,over-the-rhine,145,0,4,3
+2015,5,evanston,58,0,3,2
+2015,5,s.. cumminsville,12,1,1,4
+2015,5,northside,97,0,4,4
+2015,5,winton hills,85,1,4,4
+2015,5,college  hill,86,1,4,3
+2015,5,madisonville,53,0,3,1
+2015,5,lower price  hill,23,0,2,2
+2015,5,o'bryonville,5,0,1,3
+2015,5,hyde park,27,0,2,1
+2015,5,riverside,20,1,1,4
+2015,5,mount  adams,14,0,1,3
+2015,5,pleasant ridge,39,0,2,3
+2015,5,roselawn,68,0,4,3
+2015,5,oakley,55,0,3,2
+2015,5,north fairmount,13,0,1,2
+2015,5,bondhill,75,1,4,4
+2015,5,south  fairmount,51,0,3,2
+2015,5,spring grove village,27,1,2,2
+2015,5,clifton,41,0,3,1
+2015,5,-,1,0,1,1
+2015,5,millvale,40,0,3,4
+2015,5,fairview,56,0,3,2
+2015,5,clifton/university heights,44,0,3,2
+2015,5,north avondale,45,0,3,2
+2015,5,walnut hills,81,1,4,1
+2015,5,corryville,46,0,3,3
+2015,5,east  end,20,0,1,3
+2015,5,east walnut hills,24,0,2,3
+2015,5,mt.  washington,69,0,4,4
+2015,5,columbia / tusculum,10,0,1,1
+2015,5,fay apartments,22,0,2,2
+2015,5,hartwell,32,0,2,3
+2015,5,queensgate,21,0,2,2
+2015,5,carthage,43,0,3,4
+2015,5,english  woods,20,0,1,3
+2015,5,kennedy  heights,42,0,3,4
+2015,5,sayler  park,22,0,2,3
+2015,5,mt.  lookout,12,0,1,2
+2015,5,california,3,0,1,2
+2015,5,paddock  hills,25,0,2,4
+2015,5,pendleton,11,1,1,1
+2015,5,linwood,2,0,1,1
+2015,3,c. b. d. / riverfront,105,0,4,1
+2015,3,west  end,63,0,4,1
+2015,3,east  westwood,23,0,2,3
+2015,3,camp  washington,15,0,1,1
+2015,3,east price hill,174,0,4,3
+2015,3,avondale,113,0,4,2
+2015,3,mount airy,62,0,4,1
+2015,3,mount  auburn,44,0,3,2
+2015,3,west price hill,174,0,4,2
+2015,3,sedamsville,10,0,1,2
+2015,3,westwood,286,1,4,3
+2015,3,over-the-rhine,118,1,4,2
+2015,3,evanston,47,0,3,1
+2015,3,s.. cumminsville,15,0,1,4
+2015,3,northside,58,0,4,1
+2015,3,winton hills,53,0,3,2
+2015,3,college  hill,86,0,4,3
+2015,3,madisonville,57,0,3,2
+2015,3,lower price  hill,24,0,2,3
+2015,3,o'bryonville,4,0,1,3
+2015,3,hyde park,34,0,3,2
+2015,3,riverside,6,0,1,1
+2015,3,mount  adams,12,0,1,2
+2015,3,pleasant ridge,27,0,2,1
+2015,3,roselawn,50,0,3,1
+2015,3,oakley,73,0,4,4
+2015,3,north fairmount,14,0,1,3
+2015,3,bondhill,72,0,4,4
+2015,3,south  fairmount,61,0,4,3
+2015,3,spring grove village,20,0,2,1
+2015,3,clifton,40,0,3,1
+2015,3,-,2,0,1,1
+2015,3,millvale,25,1,2,3
+2015,3,fairview,44,0,3,1
+2015,3,clifton/university heights,35,0,3,1
+2015,3,north avondale,31,0,3,1
+2015,3,walnut hills,113,1,4,3
+2015,3,corryville,37,0,3,2
+2015,3,east  end,15,0,1,1
+2015,3,east walnut hills,20,0,2,2
+2015,3,mt.  washington,45,0,3,2
+2015,3,columbia / tusculum,13,0,1,2
+2015,3,fay apartments,30,0,2,4
+2015,3,hartwell,15,0,1,1
+2015,3,queensgate,21,0,2,2
+2015,3,carthage,35,0,3,3
+2015,3,english  woods,15,0,1,2
+2015,3,kennedy  heights,26,0,2,4
+2015,3,sayler  park,13,0,1,1
+2015,3,mt.  lookout,18,0,2,4
+2015,3,california,3,0,1,2
+2015,3,paddock  hills,10,0,1,1
+2015,3,pendleton,10,0,1,1
+2015,3,linwood,7,0,1,3
+2015,11,c. b. d. / riverfront,131,0,4,2
+2015,11,west  end,60,0,4,1
+2015,11,east  westwood,15,0,1,1
+2015,11,camp  washington,16,0,1,1
+2015,11,east price hill,131,0,4,1
+2015,11,avondale,103,0,4,1
+2015,11,mount airy,68,1,4,2
+2015,11,mount  auburn,38,0,3,1
+2015,11,west price hill,187,0,4,3
+2015,11,sedamsville,2,0,1,1
+2015,11,westwood,255,1,4,1
+2015,11,over-the-rhine,93,0,4,1
+2015,11,evanston,49,0,3,1
+2015,11,s.. cumminsville,4,0,1,1
+2015,11,northside,65,0,4,1
+2015,11,winton hills,52,0,3,2
+2015,11,college  hill,71,0,4,1
+2015,11,madisonville,47,0,3,1
+2015,11,lower price  hill,17,0,2,1
+2015,11,o'bryonville,4,0,1,3
+2015,11,hyde park,36,0,3,3
+2015,11,riverside,9,0,1,1
+2015,11,mount  adams,19,0,2,4
+2015,11,pleasant ridge,25,0,2,1
+2015,11,roselawn,52,0,3,2
+2015,11,oakley,52,0,3,1
+2015,11,north fairmount,15,0,1,3
+2015,11,bondhill,53,0,4,2
+2015,11,south  fairmount,40,0,3,1
+2015,11,spring grove village,34,0,3,3
+2015,11,clifton,65,0,4,3
+2015,11,-,5,0,1,3
+2015,11,millvale,24,0,2,2
+2015,11,fairview,79,0,4,4
+2015,11,clifton/university heights,43,0,3,2
+2015,11,north avondale,38,0,3,1
+2015,11,walnut hills,88,0,4,1
+2015,11,corryville,36,0,3,2
+2015,11,east  end,17,0,2,2
+2015,11,east walnut hills,26,0,2,3
+2015,11,mt.  washington,33,0,2,1
+2015,11,columbia / tusculum,13,0,1,2
+2015,11,fay apartments,21,0,2,2
+2015,11,hartwell,20,0,2,1
+2015,11,queensgate,38,0,3,4
+2015,11,carthage,30,0,2,2
+2015,11,english  woods,11,0,1,1
+2015,11,kennedy  heights,18,0,2,2
+2015,11,sayler  park,19,0,2,3
+2015,11,mt.  lookout,15,0,1,3
+2015,11,california,2,0,1,2
+2015,11,paddock  hills,17,0,2,3
+2015,11,pendleton,13,0,1,2
+2015,11,linwood,5,0,1,2
+2015,12,c. b. d. / riverfront,126,0,4,2
+2015,12,west  end,69,0,4,1
+2015,12,east  westwood,16,0,1,2
+2015,12,camp  washington,20,0,2,2
+2015,12,east price hill,162,1,4,2
+2015,12,avondale,92,0,4,1
+2015,12,mount airy,73,0,4,2
+2015,12,mount  auburn,47,0,3,2
+2015,12,west price hill,192,1,4,3
+2015,12,sedamsville,9,0,1,1
+2015,12,westwood,252,0,4,1
+2015,12,over-the-rhine,158,0,4,4
+2015,12,evanston,53,1,3,2
+2015,12,s.. cumminsville,5,0,1,1
+2015,12,northside,68,0,4,2
+2015,12,winton hills,72,0,4,4
+2015,12,college  hill,79,0,4,2
+2015,12,madisonville,53,0,3,1
+2015,12,lower price  hill,15,0,1,1
+2015,12,o'bryonville,5,0,1,3
+2015,12,hyde park,34,0,3,2
+2015,12,riverside,13,0,1,2
+2015,12,mount  adams,11,0,1,2
+2015,12,pleasant ridge,29,0,2,1
+2015,12,roselawn,60,0,4,2
+2015,12,oakley,72,0,4,4
+2015,12,north fairmount,16,0,1,4
+2015,12,bondhill,55,0,3,2
+2015,12,south  fairmount,44,0,3,1
+2015,12,spring grove village,21,0,2,1
+2015,12,clifton,40,0,3,1
+2015,12,-,1,0,1,1
+2015,12,millvale,13,0,1,1
+2015,12,fairview,40,0,3,1
+2015,12,clifton/university heights,29,0,2,1
+2015,12,north avondale,36,0,3,1
+2015,12,walnut hills,97,0,4,2
+2015,12,corryville,34,0,3,1
+2015,12,east  end,16,0,1,2
+2015,12,east walnut hills,27,0,2,3
+2015,12,mt.  washington,48,0,3,3
+2015,12,columbia / tusculum,16,0,1,3
+2015,12,fay apartments,31,1,3,4
+2015,12,hartwell,28,0,2,2
+2015,12,queensgate,33,0,3,4
+2015,12,carthage,29,0,2,2
+2015,12,english  woods,17,0,2,3
+2015,12,kennedy  heights,29,0,2,4
+2015,12,sayler  park,17,0,2,2
+2015,12,mt.  lookout,24,0,2,4
+2015,12,california,3,0,1,2
+2015,12,paddock  hills,18,0,2,3
+2015,12,pendleton,19,0,2,4
+2015,12,linwood,2,0,1,1
+2015,7,c. b. d. / riverfront,149,0,4,3
+2015,7,west  end,88,0,4,2
+2015,7,east  westwood,32,0,2,4
+2015,7,camp  washington,28,0,2,3
+2015,7,east price hill,171,1,4,3
+2015,7,avondale,130,0,4,3
+2015,7,mount airy,66,0,3,1
+2015,7,mount  auburn,69,2,3,4
+2015,7,west price hill,184,0,4,3
+2015,7,sedamsville,7,0,1,1
+2015,7,westwood,381,2,4,4
+2015,7,over-the-rhine,145,0,4,3
+2015,7,evanston,65,0,3,3
+2015,7,s.. cumminsville,10,0,1,3
+2015,7,northside,100,0,4,4
+2015,7,winton hills,72,0,4,4
+2015,7,college  hill,74,0,4,2
+2015,7,madisonville,61,0,3,2
+2015,7,lower price  hill,23,0,2,2
+2015,7,o'bryonville,4,0,1,3
+2015,7,hyde park,29,0,2,2
+2015,7,riverside,20,0,2,4
+2015,7,mount  adams,20,0,2,4
+2015,7,pleasant ridge,40,0,3,3
+2015,7,roselawn,64,0,3,3
+2015,7,oakley,58,0,3,2
+2015,7,north fairmount,19,0,1,4
+2015,7,bondhill,77,0,4,4
+2015,7,south  fairmount,69,1,3,4
+2015,7,spring grove village,16,0,1,1
+2015,7,clifton,70,0,4,4
+2015,7,-,5,0,1,3
+2015,7,millvale,22,0,2,2
+2015,7,fairview,59,0,3,2
+2015,7,clifton/university heights,43,0,3,2
+2015,7,north avondale,51,0,3,3
+2015,7,walnut hills,128,0,4,4
+2015,7,corryville,44,0,3,2
+2015,7,east  end,30,0,2,4
+2015,7,east walnut hills,19,0,1,2
+2015,7,mt.  washington,57,0,3,4
+2015,7,columbia / tusculum,15,0,1,3
+2015,7,fay apartments,26,0,2,3
+2015,7,hartwell,30,0,2,3
+2015,7,queensgate,25,0,2,4
+2015,7,carthage,30,0,2,2
+2015,7,english  woods,25,0,2,4
+2015,7,kennedy  heights,18,0,1,2
+2015,7,sayler  park,38,0,3,4
+2015,7,mt.  lookout,16,0,1,3
+2015,7,california,10,0,1,4
+2015,7,paddock  hills,17,0,1,3
+2015,7,pendleton,14,0,1,2
+2015,7,linwood,1,0,1,1
+2015,10,c. b. d. / riverfront,140,0,4,3
+2015,10,west  end,91,1,4,3
+2015,10,east  westwood,13,0,1,1
+2015,10,camp  washington,20,0,2,2
+2015,10,east price hill,131,0,4,1
+2015,10,avondale,108,1,4,1
+2015,10,mount airy,54,0,3,1
+2015,10,mount  auburn,45,0,3,2
+2015,10,west price hill,154,0,4,1
+2015,10,sedamsville,5,0,1,1
+2015,10,westwood,299,1,4,3
+2015,10,over-the-rhine,158,0,4,4
+2015,10,evanston,43,1,3,1
+2015,10,s.. cumminsville,7,0,1,2
+2015,10,northside,60,1,4,1
+2015,10,winton hills,45,0,3,1
+2015,10,college  hill,72,1,4,1
+2015,10,madisonville,71,0,4,3
+2015,10,lower price  hill,23,0,2,2
+2015,10,o'bryonville,3,0,1,2
+2015,10,hyde park,41,0,3,3
+2015,10,riverside,9,0,1,1
+2015,10,mount  adams,10,0,1,2
+2015,10,pleasant ridge,33,0,2,2
+2015,10,roselawn,64,2,4,3
+2015,10,oakley,64,0,4,3
+2015,10,north fairmount,13,0,1,2
+2015,10,bondhill,70,0,4,4
+2015,10,south  fairmount,52,0,3,2
+2015,10,spring grove village,20,0,2,1
+2015,10,clifton,47,0,3,2
+2015,10,-,4,0,1,2
+2015,10,millvale,18,0,2,1
+2015,10,fairview,55,0,3,2
+2015,10,clifton/university heights,16,0,2,1
+2015,10,north avondale,45,0,3,2
+2015,10,walnut hills,98,1,4,2
+2015,10,corryville,38,0,3,2
+2015,10,east  end,17,0,2,2
+2015,10,east walnut hills,15,0,1,1
+2015,10,mt.  washington,34,0,3,1
+2015,10,columbia / tusculum,7,0,1,1
+2015,10,fay apartments,26,0,2,3
+2015,10,hartwell,33,0,2,3
+2015,10,queensgate,34,0,3,4
+2015,10,carthage,37,0,3,3
+2015,10,english  woods,13,0,1,1
+2015,10,kennedy  heights,15,0,1,1
+2015,10,sayler  park,22,0,2,3
+2015,10,mt.  lookout,18,0,2,4
+2015,10,california,2,0,1,2
+2015,10,paddock  hills,11,0,1,1
+2015,10,pendleton,20,0,2,4
+2015,10,linwood,8,0,1,3
+2015,1,c. b. d. / riverfront,99,0,4,1
+2015,1,west  end,64,2,4,1
+2015,1,east  westwood,15,0,1,1
+2015,1,camp  washington,27,0,2,3
+2015,1,east price hill,145,0,4,2
+2015,1,avondale,127,0,4,2
+2015,1,mount airy,64,0,4,1
+2015,1,mount  auburn,32,0,3,1
+2015,1,west price hill,150,0,4,1
+2015,1,sedamsville,4,0,1,1
+2015,1,westwood,328,0,4,4
+2015,1,over-the-rhine,110,0,4,1
+2015,1,evanston,58,0,4,2
+2015,1,s.. cumminsville,5,0,1,1
+2015,1,northside,93,0,4,4
+2015,1,winton hills,52,0,3,2
+2015,1,college  hill,69,0,4,1
+2015,1,madisonville,45,0,3,1
+2015,1,lower price  hill,14,0,1,1
+2015,1,o'bryonville,4,0,1,3
+2015,1,hyde park,24,0,2,1
+2015,1,riverside,8,0,1,1
+2015,1,mount  adams,3,0,1,1
+2015,1,pleasant ridge,36,0,3,2
+2015,1,roselawn,62,1,4,3
+2015,1,oakley,48,0,3,1
+2015,1,north fairmount,9,0,1,1
+2015,1,bondhill,45,0,3,1
+2015,1,south  fairmount,55,0,3,2
+2015,1,spring grove village,17,0,2,1
+2015,1,clifton,64,0,4,3
+2015,1,-,0,0,1,1
+2015,1,millvale,33,0,3,4
+2015,1,fairview,38,0,3,1
+2015,1,clifton/university heights,37,0,3,2
+2015,1,north avondale,42,1,3,2
+2015,1,walnut hills,98,0,4,2
+2015,1,corryville,51,0,3,3
+2015,1,east  end,19,0,2,2
+2015,1,east walnut hills,19,0,2,2
+2015,1,mt.  washington,42,0,3,2
+2015,1,columbia / tusculum,24,0,2,4
+2015,1,fay apartments,18,0,2,1
+2015,1,hartwell,23,0,2,1
+2015,1,queensgate,15,0,1,1
+2015,1,carthage,25,0,2,1
+2015,1,english  woods,13,0,1,1
+2015,1,kennedy  heights,17,0,2,1
+2015,1,sayler  park,21,0,2,3
+2015,1,mt.  lookout,9,0,1,1
+2015,1,california,0,0,1,1
+2015,1,paddock  hills,15,0,1,2
+2015,1,pendleton,16,0,2,3
+2015,1,linwood,5,0,1,2
+2015,4,c. b. d. / riverfront,138,0,4,3
+2015,4,west  end,108,0,4,4
+2015,4,east  westwood,20,0,2,3
+2015,4,camp  washington,14,0,1,1
+2015,4,east price hill,137,0,4,1
+2015,4,avondale,97,0,4,1
+2015,4,mount airy,95,0,4,4
+2015,4,mount  auburn,48,0,3,2
+2015,4,west price hill,195,1,4,4
+2015,4,sedamsville,9,0,1,1
+2015,4,westwood,276,0,4,2
+2015,4,over-the-rhine,116,2,4,1
+2015,4,evanston,75,0,4,4
+2015,4,s.. cumminsville,10,0,1,3
+2015,4,northside,75,0,4,2
+2015,4,winton hills,79,0,4,4
+2015,4,college  hill,80,0,4,2
+2015,4,madisonville,55,0,3,2
+2015,4,lower price  hill,25,0,2,3
+2015,4,o'bryonville,10,0,1,4
+2015,4,hyde park,44,0,3,4
+2015,4,riverside,7,0,1,1
+2015,4,mount  adams,7,0,1,1
+2015,4,pleasant ridge,35,1,2,2
+2015,4,roselawn,64,1,3,3
+2015,4,oakley,64,0,3,3
+2015,4,north fairmount,13,0,1,2
+2015,4,bondhill,65,0,4,3
+2015,4,south  fairmount,64,0,3,3
+2015,4,spring grove village,11,0,1,1
+2015,4,clifton,51,0,3,2
+2015,4,-,0,0,1,1
+2015,4,millvale,30,0,2,3
+2015,4,fairview,59,0,3,2
+2015,4,clifton/university heights,55,0,3,4
+2015,4,north avondale,42,0,3,2
+2015,4,walnut hills,80,1,4,1
+2015,4,corryville,40,0,3,2
+2015,4,east  end,6,0,1,1
+2015,4,east walnut hills,20,0,2,2
+2015,4,mt.  washington,52,0,3,3
+2015,4,columbia / tusculum,12,0,1,2
+2015,4,fay apartments,25,0,2,3
+2015,4,hartwell,28,0,2,2
+2015,4,queensgate,16,0,2,1
+2015,4,carthage,38,0,3,3
+2015,4,english  woods,18,0,2,3
+2015,4,kennedy  heights,15,0,1,1
+2015,4,sayler  park,16,0,2,2
+2015,4,mt.  lookout,16,0,2,3
+2015,4,california,2,0,1,2
+2015,4,paddock  hills,19,0,2,3
+2015,4,pendleton,18,0,2,4
+2015,4,linwood,6,0,1,3
+2013,2,c. b. d. / riverfront,89,0,4,1
+2013,2,west  end,67,0,4,1
+2013,2,east  westwood,23,0,3,3
+2013,2,camp  washington,16,0,2,1
+2013,2,east price hill,141,0,4,1
+2013,2,avondale,101,0,4,1
+2013,2,mount airy,50,0,4,1
+2013,2,mount  auburn,31,0,3,1
+2013,2,west price hill,143,0,4,1
+2013,2,sedamsville,1,0,1,1
+2013,2,westwood,174,0,4,1
+2013,2,over-the-rhine,81,0,4,1
+2013,2,evanston,44,0,3,1
+2013,2,s.. cumminsville,7,0,1,2
+2013,2,northside,60,1,4,1
+2013,2,winton hills,49,1,4,1
+2013,2,college  hill,45,0,3,1
+2013,2,madisonville,56,1,4,2
+2013,2,lower price  hill,15,0,2,1
+2013,2,o'bryonville,3,0,1,2
+2013,2,hyde park,22,0,2,1
+2013,2,riverside,8,0,1,1
+2013,2,mount  adams,8,0,1,1
+2013,2,pleasant ridge,29,0,3,1
+2013,2,roselawn,51,0,4,1
+2013,2,oakley,38,0,3,1
+2013,2,north fairmount,12,0,2,2
+2013,2,bondhill,42,0,3,1
+2013,2,south  fairmount,39,0,3,1
+2013,2,spring grove village,13,0,2,1
+2013,2,clifton,41,0,3,1
+2013,2,-,3,0,1,2
+2013,2,millvale,11,0,1,1
+2013,2,fairview,47,0,3,1
+2013,2,clifton/university heights,43,0,3,2
+2013,2,north avondale,31,0,3,1
+2013,2,walnut hills,61,0,4,1
+2013,2,corryville,28,0,3,1
+2013,2,east  end,11,0,1,1
+2013,2,east walnut hills,13,0,2,1
+2013,2,mt.  washington,53,0,4,4
+2013,2,columbia / tusculum,4,0,1,1
+2013,2,fay apartments,17,0,2,1
+2013,2,hartwell,20,0,2,1
+2013,2,queensgate,8,0,1,1
+2013,2,carthage,21,0,2,1
+2013,2,english  woods,10,0,1,1
+2013,2,kennedy  heights,21,0,2,2
+2013,2,sayler  park,16,0,2,2
+2013,2,mt.  lookout,7,0,1,1
+2013,2,california,1,0,1,1
+2013,2,paddock  hills,12,0,2,1
+2013,2,pendleton,16,0,2,3
+2013,2,linwood,1,0,1,1
+2013,8,c. b. d. / riverfront,168,1,4,4
+2013,8,west  end,104,0,4,4
+2013,8,east  westwood,21,0,2,3
+2013,8,camp  washington,29,0,2,3
+2013,8,east price hill,202,0,4,4
+2013,8,avondale,146,0,4,3
+2013,8,mount airy,88,0,4,4
+2013,8,mount  auburn,54,0,3,3
+2013,8,west price hill,205,1,4,4
+2013,8,sedamsville,12,0,1,2
+2013,8,westwood,275,0,4,2
+2013,8,over-the-rhine,163,0,4,4
+2013,8,evanston,76,0,4,4
+2013,8,s.. cumminsville,15,0,1,4
+2013,8,northside,92,0,4,4
+2013,8,winton hills,56,0,3,2
+2013,8,college  hill,116,1,4,4
+2013,8,madisonville,67,0,3,3
+2013,8,lower price  hill,28,0,2,4
+2013,8,o'bryonville,10,0,1,4
+2013,8,hyde park,34,0,2,2
+2013,8,riverside,15,0,1,3
+2013,8,mount  adams,14,0,1,3
+2013,8,pleasant ridge,55,1,3,4
+2013,8,roselawn,71,0,3,3
+2013,8,oakley,82,0,4,4
+2013,8,north fairmount,24,0,2,4
+2013,8,bondhill,58,0,3,2
+2013,8,south  fairmount,84,0,4,4
+2013,8,spring grove village,26,0,2,2
+2013,8,clifton,69,0,3,3
+2013,8,-,1,0,1,1
+2013,8,millvale,35,0,2,4
+2013,8,fairview,58,0,3,2
+2013,8,clifton/university heights,55,0,3,4
+2013,8,north avondale,51,0,3,3
+2013,8,walnut hills,136,0,4,4
+2013,8,corryville,72,0,3,4
+2013,8,east  end,18,0,1,2
+2013,8,east walnut hills,45,0,3,4
+2013,8,mt.  washington,52,0,3,3
+2013,8,columbia / tusculum,22,0,2,4
+2013,8,fay apartments,25,1,2,3
+2013,8,hartwell,29,0,2,3
+2013,8,queensgate,20,0,1,2
+2013,8,carthage,41,0,2,3
+2013,8,english  woods,23,0,2,4
+2013,8,kennedy  heights,22,0,2,3
+2013,8,sayler  park,13,0,1,1
+2013,8,mt.  lookout,14,0,1,2
+2013,8,california,5,0,1,3
+2013,8,paddock  hills,19,0,1,3
+2013,8,pendleton,15,0,1,3
+2013,8,linwood,6,0,1,3
+2013,6,c. b. d. / riverfront,143,0,4,3
+2013,6,west  end,108,0,4,4
+2013,6,east  westwood,21,0,2,3
+2013,6,camp  washington,21,0,2,2
+2013,6,east price hill,188,1,4,4
+2013,6,avondale,141,0,4,3
+2013,6,mount airy,92,0,4,4
+2013,6,mount  auburn,37,0,2,1
+2013,6,west price hill,196,0,4,4
+2013,6,sedamsville,16,0,1,4
+2013,6,westwood,300,0,4,3
+2013,6,over-the-rhine,184,1,4,4
+2013,6,evanston,75,0,3,4
+2013,6,s.. cumminsville,11,0,1,3
+2013,6,northside,85,0,4,3
+2013,6,winton hills,40,0,3,1
+2013,6,college  hill,99,0,4,4
+2013,6,madisonville,58,0,3,2
+2013,6,lower price  hill,29,0,2,4
+2013,6,o'bryonville,5,0,1,3
+2013,6,hyde park,44,0,3,4
+2013,6,riverside,24,0,2,4
+2013,6,mount  adams,10,0,1,2
+2013,6,pleasant ridge,42,0,3,3
+2013,6,roselawn,78,0,4,4
+2013,6,oakley,76,0,4,4
+2013,6,north fairmount,13,0,1,2
+2013,6,bondhill,86,1,4,4
+2013,6,south  fairmount,62,1,3,3
+2013,6,spring grove village,33,0,2,3
+2013,6,clifton,59,0,3,3
+2013,6,-,6,0,1,3
+2013,6,millvale,36,0,2,4
+2013,6,fairview,60,0,3,2
+2013,6,clifton/university heights,59,1,3,4
+2013,6,north avondale,46,0,3,3
+2013,6,walnut hills,97,0,4,2
+2013,6,corryville,41,0,3,2
+2013,6,east  end,20,0,1,3
+2013,6,east walnut hills,37,0,2,4
+2013,6,mt.  washington,45,0,3,2
+2013,6,columbia / tusculum,11,0,1,2
+2013,6,fay apartments,37,0,2,4
+2013,6,hartwell,31,0,2,3
+2013,6,queensgate,18,1,1,2
+2013,6,carthage,30,0,2,2
+2013,6,english  woods,21,0,2,4
+2013,6,kennedy  heights,20,2,1,2
+2013,6,sayler  park,13,0,1,1
+2013,6,mt.  lookout,21,0,2,4
+2013,6,california,7,0,1,4
+2013,6,paddock  hills,16,0,1,2
+2013,6,pendleton,15,0,1,3
+2013,6,linwood,5,0,1,2
+2013,9,c. b. d. / riverfront,192,0,4,4
+2013,9,west  end,85,0,4,2
+2013,9,east  westwood,19,0,1,2
+2013,9,camp  washington,29,0,2,3
+2013,9,east price hill,124,0,4,1
+2013,9,avondale,152,0,4,4
+2013,9,mount airy,74,0,4,2
+2013,9,mount  auburn,42,0,3,1
+2013,9,west price hill,182,0,4,3
+2013,9,sedamsville,20,0,2,4
+2013,9,westwood,278,0,4,2
+2013,9,over-the-rhine,122,1,4,2
+2013,9,evanston,59,0,3,3
+2013,9,s.. cumminsville,5,0,1,1
+2013,9,northside,105,0,4,4
+2013,9,winton hills,49,0,3,1
+2013,9,college  hill,90,0,4,3
+2013,9,madisonville,87,0,4,4
+2013,9,lower price  hill,24,0,2,3
+2013,9,o'bryonville,3,0,1,2
+2013,9,hyde park,39,0,2,3
+2013,9,riverside,7,0,1,1
+2013,9,mount  adams,22,0,2,4
+2013,9,pleasant ridge,56,0,3,4
+2013,9,roselawn,66,0,3,3
+2013,9,oakley,63,0,3,3
+2013,9,north fairmount,15,1,1,3
+2013,9,bondhill,64,0,3,3
+2013,9,south  fairmount,73,0,4,4
+2013,9,spring grove village,29,0,2,3
+2013,9,clifton,68,0,3,3
+2013,9,-,2,0,1,1
+2013,9,millvale,23,0,2,2
+2013,9,fairview,91,0,4,4
+2013,9,clifton/university heights,54,0,3,3
+2013,9,north avondale,39,0,2,1
+2013,9,walnut hills,112,0,4,3
+2013,9,corryville,57,0,3,4
+2013,9,east  end,24,0,2,4
+2013,9,east walnut hills,26,0,2,3
+2013,9,mt.  washington,47,0,3,3
+2013,9,columbia / tusculum,15,0,1,3
+2013,9,fay apartments,19,0,1,1
+2013,9,hartwell,24,0,2,2
+2013,9,queensgate,23,0,2,3
+2013,9,carthage,42,1,3,3
+2013,9,english  woods,15,0,1,2
+2013,9,kennedy  heights,21,0,2,2
+2013,9,sayler  park,14,0,1,2
+2013,9,mt.  lookout,16,0,1,3
+2013,9,california,2,0,1,2
+2013,9,paddock  hills,9,0,1,1
+2013,9,pendleton,18,0,1,4
+2013,9,linwood,5,0,1,2
+2013,5,c. b. d. / riverfront,137,0,4,3
+2013,5,west  end,97,0,4,3
+2013,5,east  westwood,24,0,2,4
+2013,5,camp  washington,22,0,2,2
+2013,5,east price hill,183,1,4,4
+2013,5,avondale,130,0,4,3
+2013,5,mount airy,86,0,4,3
+2013,5,mount  auburn,43,0,3,2
+2013,5,west price hill,192,0,4,3
+2013,5,sedamsville,19,0,1,4
+2013,5,westwood,308,0,4,3
+2013,5,over-the-rhine,142,1,4,3
+2013,5,evanston,71,1,3,4
+2013,5,s.. cumminsville,17,0,1,4
+2013,5,northside,104,0,4,4
+2013,5,winton hills,43,0,3,1
+2013,5,college  hill,96,0,4,4
+2013,5,madisonville,86,1,4,4
+2013,5,lower price  hill,26,0,2,3
+2013,5,o'bryonville,4,0,1,3
+2013,5,hyde park,33,0,2,2
+2013,5,riverside,19,0,1,4
+2013,5,mount  adams,10,0,1,2
+2013,5,pleasant ridge,44,0,3,3
+2013,5,roselawn,75,0,4,4
+2013,5,oakley,57,0,3,2
+2013,5,north fairmount,13,0,1,2
+2013,5,bondhill,60,0,3,3
+2013,5,south  fairmount,80,1,4,4
+2013,5,spring grove village,32,0,2,3
+2013,5,clifton,63,0,3,3
+2013,5,-,4,0,1,2
+2013,5,millvale,24,2,2,2
+2013,5,fairview,62,0,3,2
+2013,5,clifton/university heights,48,0,3,3
+2013,5,north avondale,48,0,3,3
+2013,5,walnut hills,118,0,4,3
+2013,5,corryville,47,0,3,3
+2013,5,east  end,14,0,1,1
+2013,5,east walnut hills,17,0,1,1
+2013,5,mt.  washington,45,0,3,2
+2013,5,columbia / tusculum,17,0,1,4
+2013,5,fay apartments,23,0,2,2
+2013,5,hartwell,27,0,2,2
+2013,5,queensgate,24,0,2,3
+2013,5,carthage,54,0,3,4
+2013,5,english  woods,18,0,1,3
+2013,5,kennedy  heights,28,0,2,4
+2013,5,sayler  park,24,0,2,4
+2013,5,mt.  lookout,21,0,2,4
+2013,5,california,6,0,1,4
+2013,5,paddock  hills,15,0,1,2
+2013,5,pendleton,14,0,1,2
+2013,5,linwood,9,0,1,4
+2013,3,c. b. d. / riverfront,108,0,4,1
+2013,3,west  end,65,0,4,1
+2013,3,east  westwood,20,0,2,3
+2013,3,camp  washington,14,0,1,1
+2013,3,east price hill,157,0,4,2
+2013,3,avondale,129,1,4,3
+2013,3,mount airy,71,0,4,2
+2013,3,mount  auburn,45,0,3,2
+2013,3,west price hill,191,0,4,3
+2013,3,sedamsville,14,1,1,3
+2013,3,westwood,219,0,4,1
+2013,3,over-the-rhine,86,0,4,1
+2013,3,evanston,48,0,3,1
+2013,3,s.. cumminsville,11,0,1,3
+2013,3,northside,44,0,3,1
+2013,3,winton hills,56,0,4,2
+2013,3,college  hill,74,0,4,2
+2013,3,madisonville,69,0,4,3
+2013,3,lower price  hill,20,0,2,2
+2013,3,o'bryonville,2,0,1,1
+2013,3,hyde park,31,0,2,2
+2013,3,riverside,8,0,1,1
+2013,3,mount  adams,5,0,1,1
+2013,3,pleasant ridge,47,0,3,4
+2013,3,roselawn,63,0,4,3
+2013,3,oakley,43,0,3,1
+2013,3,north fairmount,14,0,1,3
+2013,3,bondhill,51,0,3,1
+2013,3,south  fairmount,49,0,3,2
+2013,3,spring grove village,32,0,2,3
+2013,3,clifton,45,0,3,1
+2013,3,-,0,0,1,1
+2013,3,millvale,17,0,2,1
+2013,3,fairview,65,0,4,3
+2013,3,clifton/university heights,40,0,3,2
+2013,3,north avondale,51,0,3,3
+2013,3,walnut hills,69,1,4,1
+2013,3,corryville,48,0,3,3
+2013,3,east  end,12,0,1,1
+2013,3,east walnut hills,14,0,1,1
+2013,3,mt.  washington,47,0,3,3
+2013,3,columbia / tusculum,8,0,1,1
+2013,3,fay apartments,24,0,2,3
+2013,3,hartwell,31,0,2,3
+2013,3,queensgate,5,0,1,1
+2013,3,carthage,38,0,3,3
+2013,3,english  woods,12,0,1,1
+2013,3,kennedy  heights,22,0,2,3
+2013,3,sayler  park,12,0,1,1
+2013,3,mt.  lookout,12,0,1,2
+2013,3,california,6,0,1,4
+2013,3,paddock  hills,16,0,2,2
+2013,3,pendleton,14,0,1,2
+2013,3,linwood,2,0,1,1
+2013,11,c. b. d. / riverfront,117,0,4,2
+2013,11,west  end,83,2,4,2
+2013,11,east  westwood,8,0,1,1
+2013,11,camp  washington,27,0,2,3
+2013,11,east price hill,129,0,4,1
+2013,11,avondale,114,1,4,2
+2013,11,mount airy,66,1,4,1
+2013,11,mount  auburn,43,0,3,2
+2013,11,west price hill,173,0,4,2
+2013,11,sedamsville,15,0,1,3
+2013,11,westwood,274,2,4,2
+2013,11,over-the-rhine,124,0,4,2
+2013,11,evanston,59,0,4,3
+2013,11,s.. cumminsville,6,0,1,1
+2013,11,northside,87,0,4,3
+2013,11,winton hills,33,1,3,1
+2013,11,college  hill,90,0,4,3
+2013,11,madisonville,69,0,4,3
+2013,11,lower price  hill,19,0,2,2
+2013,11,o'bryonville,2,0,1,1
+2013,11,hyde park,38,0,3,3
+2013,11,riverside,6,0,1,1
+2013,11,mount  adams,6,0,1,1
+2013,11,pleasant ridge,34,0,3,2
+2013,11,roselawn,44,0,3,1
+2013,11,oakley,40,0,3,1
+2013,11,north fairmount,12,0,1,2
+2013,11,bondhill,51,0,3,1
+2013,11,south  fairmount,52,0,3,2
+2013,11,spring grove village,23,0,2,2
+2013,11,clifton,55,0,4,3
+2013,11,-,2,0,1,1
+2013,11,millvale,36,0,3,4
+2013,11,fairview,53,0,3,1
+2013,11,clifton/university heights,51,0,3,3
+2013,11,north avondale,49,0,3,3
+2013,11,walnut hills,87,0,4,1
+2013,11,corryville,52,0,3,3
+2013,11,east  end,21,0,2,3
+2013,11,east walnut hills,27,0,2,3
+2013,11,mt.  washington,22,0,2,1
+2013,11,columbia / tusculum,12,0,1,2
+2013,11,fay apartments,20,0,2,1
+2013,11,hartwell,29,0,2,3
+2013,11,queensgate,16,0,2,1
+2013,11,carthage,23,0,2,1
+2013,11,english  woods,15,0,1,2
+2013,11,kennedy  heights,21,0,2,2
+2013,11,sayler  park,11,0,1,1
+2013,11,mt.  lookout,17,0,2,3
+2013,11,california,3,0,1,2
+2013,11,paddock  hills,10,0,1,1
+2013,11,pendleton,11,0,1,1
+2013,11,linwood,8,0,1,3
+2013,12,c. b. d. / riverfront,140,0,4,3
+2013,12,west  end,79,0,4,2
+2013,12,east  westwood,13,0,1,1
+2013,12,camp  washington,18,0,2,1
+2013,12,east price hill,115,0,4,1
+2013,12,avondale,94,2,4,1
+2013,12,mount airy,61,0,4,1
+2013,12,mount  auburn,44,0,3,2
+2013,12,west price hill,110,0,4,1
+2013,12,sedamsville,10,0,1,2
+2013,12,westwood,261,0,4,2
+2013,12,over-the-rhine,116,1,4,1
+2013,12,evanston,55,0,3,2
+2013,12,s.. cumminsville,13,0,1,4
+2013,12,northside,66,0,4,2
+2013,12,winton hills,46,0,3,1
+2013,12,college  hill,77,0,4,2
+2013,12,madisonville,49,0,3,1
+2013,12,lower price  hill,22,0,2,2
+2013,12,o'bryonville,2,0,1,1
+2013,12,hyde park,28,0,3,1
+2013,12,riverside,9,0,1,1
+2013,12,mount  adams,5,0,1,1
+2013,12,pleasant ridge,30,0,3,1
+2013,12,roselawn,55,0,3,2
+2013,12,oakley,46,0,3,1
+2013,12,north fairmount,7,0,1,1
+2013,12,bondhill,43,0,3,1
+2013,12,south  fairmount,44,0,3,1
+2013,12,spring grove village,19,0,2,1
+2013,12,clifton,55,0,3,3
+2013,12,-,2,0,1,1
+2013,12,millvale,27,1,2,3
+2013,12,fairview,55,0,3,2
+2013,12,clifton/university heights,30,0,3,1
+2013,12,north avondale,40,0,3,2
+2013,12,walnut hills,95,0,4,2
+2013,12,corryville,48,0,3,3
+2013,12,east  end,26,0,2,4
+2013,12,east walnut hills,25,0,2,3
+2013,12,mt.  washington,28,0,3,1
+2013,12,columbia / tusculum,15,0,2,3
+2013,12,fay apartments,14,0,2,1
+2013,12,hartwell,11,0,1,1
+2013,12,queensgate,11,0,1,1
+2013,12,carthage,24,0,2,1
+2013,12,english  woods,14,0,2,2
+2013,12,kennedy  heights,15,0,2,1
+2013,12,sayler  park,9,0,1,1
+2013,12,mt.  lookout,18,0,2,4
+2013,12,california,1,0,1,1
+2013,12,paddock  hills,14,0,2,2
+2013,12,pendleton,13,0,1,2
+2013,12,linwood,4,0,1,1
+2013,7,c. b. d. / riverfront,143,0,4,3
+2013,7,west  end,93,1,4,3
+2013,7,east  westwood,15,0,1,1
+2013,7,camp  washington,28,0,2,3
+2013,7,east price hill,187,0,4,4
+2013,7,avondale,174,0,4,4
+2013,7,mount airy,105,0,4,4
+2013,7,mount  auburn,65,0,3,4
+2013,7,west price hill,236,0,4,4
+2013,7,sedamsville,8,0,1,1
+2013,7,westwood,325,1,4,4
+2013,7,over-the-rhine,187,1,4,4
+2013,7,evanston,78,0,3,4
+2013,7,s.. cumminsville,12,1,1,4
+2013,7,northside,98,0,4,4
+2013,7,winton hills,46,0,3,1
+2013,7,college  hill,95,0,4,4
+2013,7,madisonville,90,0,4,4
+2013,7,lower price  hill,31,0,2,4
+2013,7,o'bryonville,7,0,1,4
+2013,7,hyde park,51,0,3,4
+2013,7,riverside,16,0,1,3
+2013,7,mount  adams,11,0,1,2
+2013,7,pleasant ridge,44,0,3,3
+2013,7,roselawn,62,0,3,3
+2013,7,oakley,80,0,4,4
+2013,7,north fairmount,17,0,1,4
+2013,7,bondhill,69,0,3,3
+2013,7,south  fairmount,60,0,3,3
+2013,7,spring grove village,21,0,2,1
+2013,7,clifton,85,0,4,4
+2013,7,-,0,0,1,1
+2013,7,millvale,33,0,2,4
+2013,7,fairview,46,1,3,1
+2013,7,clifton/university heights,40,0,2,2
+2013,7,north avondale,67,0,3,4
+2013,7,walnut hills,125,0,4,4
+2013,7,corryville,57,0,3,4
+2013,7,east  end,32,0,2,4
+2013,7,east walnut hills,29,0,2,3
+2013,7,mt.  washington,49,0,3,3
+2013,7,columbia / tusculum,18,0,1,4
+2013,7,fay apartments,21,0,2,2
+2013,7,hartwell,38,0,2,4
+2013,7,queensgate,22,0,2,3
+2013,7,carthage,43,0,3,4
+2013,7,english  woods,19,0,1,3
+2013,7,kennedy  heights,20,0,1,2
+2013,7,sayler  park,30,0,2,4
+2013,7,mt.  lookout,28,0,2,4
+2013,7,california,6,0,1,4
+2013,7,paddock  hills,21,0,2,4
+2013,7,pendleton,13,0,1,2
+2013,7,linwood,12,0,1,4
+2013,10,c. b. d. / riverfront,151,0,4,4
+2013,10,west  end,87,0,4,2
+2013,10,east  westwood,16,0,1,2
+2013,10,camp  washington,29,0,2,3
+2013,10,east price hill,152,0,4,2
+2013,10,avondale,120,0,4,2
+2013,10,mount airy,76,0,4,3
+2013,10,mount  auburn,39,0,2,1
+2013,10,west price hill,164,0,4,2
+2013,10,sedamsville,20,0,2,4
+2013,10,westwood,227,0,4,1
+2013,10,over-the-rhine,128,1,4,2
+2013,10,evanston,65,0,4,3
+2013,10,s.. cumminsville,10,0,1,3
+2013,10,northside,101,0,4,4
+2013,10,winton hills,46,0,3,1
+2013,10,college  hill,80,1,4,2
+2013,10,madisonville,61,0,3,2
+2013,10,lower price  hill,20,0,2,2
+2013,10,o'bryonville,7,0,1,4
+2013,10,hyde park,43,0,3,4
+2013,10,riverside,13,0,1,2
+2013,10,mount  adams,11,0,1,2
+2013,10,pleasant ridge,44,1,3,3
+2013,10,roselawn,66,0,4,3
+2013,10,oakley,54,0,3,2
+2013,10,north fairmount,14,0,1,3
+2013,10,bondhill,57,1,3,2
+2013,10,south  fairmount,56,2,3,3
+2013,10,spring grove village,26,0,2,2
+2013,10,clifton,58,0,3,3
+2013,10,-,2,0,1,1
+2013,10,millvale,27,0,2,3
+2013,10,fairview,64,0,4,3
+2013,10,clifton/university heights,46,0,3,2
+2013,10,north avondale,44,0,3,2
+2013,10,walnut hills,83,0,4,1
+2013,10,corryville,56,0,3,4
+2013,10,east  end,12,0,1,1
+2013,10,east walnut hills,25,0,2,3
+2013,10,mt.  washington,44,0,3,2
+2013,10,columbia / tusculum,12,0,1,2
+2013,10,fay apartments,18,0,2,1
+2013,10,hartwell,26,0,2,2
+2013,10,queensgate,24,0,2,3
+2013,10,carthage,45,0,3,4
+2013,10,english  woods,7,0,1,1
+2013,10,kennedy  heights,20,0,2,2
+2013,10,sayler  park,21,0,2,3
+2013,10,mt.  lookout,10,0,1,1
+2013,10,california,3,0,1,2
+2013,10,paddock  hills,18,0,2,3
+2013,10,pendleton,8,0,1,1
+2013,10,linwood,1,0,1,1
+2013,1,c. b. d. / riverfront,119,0,4,2
+2013,1,west  end,106,0,4,4
+2013,1,east  westwood,14,0,1,1
+2013,1,camp  washington,25,0,2,3
+2013,1,east price hill,153,0,4,2
+2013,1,avondale,109,0,4,1
+2013,1,mount airy,91,0,4,4
+2013,1,mount  auburn,54,0,3,3
+2013,1,west price hill,191,0,4,3
+2013,1,sedamsville,12,0,1,2
+2013,1,westwood,247,0,4,1
+2013,1,over-the-rhine,120,0,4,2
+2013,1,evanston,62,1,3,3
+2013,1,s.. cumminsville,11,0,1,3
+2013,1,northside,76,0,4,3
+2013,1,winton hills,48,0,3,1
+2013,1,college  hill,86,0,4,3
+2013,1,madisonville,90,0,4,4
+2013,1,lower price  hill,18,0,2,2
+2013,1,o'bryonville,2,0,1,1
+2013,1,hyde park,24,0,2,1
+2013,1,riverside,10,0,1,1
+2013,1,mount  adams,13,0,1,2
+2013,1,pleasant ridge,32,0,3,1
+2013,1,roselawn,74,0,4,4
+2013,1,oakley,64,1,3,3
+2013,1,north fairmount,7,0,1,1
+2013,1,bondhill,66,0,3,3
+2013,1,south  fairmount,52,1,3,2
+2013,1,spring grove village,25,0,2,2
+2013,1,clifton,50,0,3,2
+2013,1,-,3,0,1,2
+2013,1,millvale,29,0,2,3
+2013,1,fairview,82,0,4,4
+2013,1,clifton/university heights,47,0,3,3
+2013,1,north avondale,45,1,3,2
+2013,1,walnut hills,95,1,4,2
+2013,1,corryville,28,0,2,1
+2013,1,east  end,19,0,2,2
+2013,1,east walnut hills,15,0,2,1
+2013,1,mt.  washington,59,0,3,4
+2013,1,columbia / tusculum,12,0,1,2
+2013,1,fay apartments,40,0,3,4
+2013,1,hartwell,29,0,2,3
+2013,1,queensgate,8,0,1,1
+2013,1,carthage,29,0,2,2
+2013,1,english  woods,17,0,2,3
+2013,1,kennedy  heights,26,0,2,4
+2013,1,sayler  park,3,0,1,1
+2013,1,mt.  lookout,18,0,2,4
+2013,1,california,3,0,1,2
+2013,1,paddock  hills,13,0,1,1
+2013,1,pendleton,15,0,2,3
+2013,1,linwood,9,0,1,4
+2013,4,c. b. d. / riverfront,125,0,4,2
+2013,4,west  end,83,1,4,2
+2013,4,east  westwood,35,0,3,4
+2013,4,camp  washington,21,0,2,2
+2013,4,east price hill,193,1,4,4
+2013,4,avondale,151,0,4,4
+2013,4,mount airy,77,1,4,3
+2013,4,mount  auburn,39,0,3,1
+2013,4,west price hill,215,0,4,4
+2013,4,sedamsville,10,0,1,2
+2013,4,westwood,293,1,4,3
+2013,4,over-the-rhine,121,0,4,2
+2013,4,evanston,77,0,4,4
+2013,4,s.. cumminsville,12,0,1,4
+2013,4,northside,79,0,4,3
+2013,4,winton hills,50,0,3,2
+2013,4,college  hill,69,0,4,1
+2013,4,madisonville,78,0,4,4
+2013,4,lower price  hill,25,0,2,3
+2013,4,o'bryonville,3,0,1,2
+2013,4,hyde park,34,0,2,2
+2013,4,riverside,19,0,2,4
+2013,4,mount  adams,12,0,1,2
+2013,4,pleasant ridge,49,0,3,4
+2013,4,roselawn,80,0,4,4
+2013,4,oakley,45,0,3,1
+2013,4,north fairmount,10,0,1,1
+2013,4,bondhill,61,0,3,3
+2013,4,south  fairmount,62,1,3,3
+2013,4,spring grove village,21,0,2,1
+2013,4,clifton,56,0,3,3
+2013,4,-,6,0,1,3
+2013,4,millvale,18,0,2,1
+2013,4,fairview,53,0,3,1
+2013,4,clifton/university heights,53,0,3,3
+2013,4,north avondale,45,0,3,2
+2013,4,walnut hills,115,0,4,3
+2013,4,corryville,55,0,3,4
+2013,4,east  end,11,0,1,1
+2013,4,east walnut hills,31,0,2,4
+2013,4,mt.  washington,37,0,3,2
+2013,4,columbia / tusculum,11,0,1,2
+2013,4,fay apartments,18,0,2,1
+2013,4,hartwell,23,0,2,1
+2013,4,queensgate,10,0,1,1
+2013,4,carthage,21,0,2,1
+2013,4,english  woods,21,0,2,4
+2013,4,kennedy  heights,29,0,2,4
+2013,4,sayler  park,8,0,1,1
+2013,4,mt.  lookout,15,0,2,3
+2013,4,california,3,0,1,2
+2013,4,paddock  hills,9,0,1,1
+2013,4,pendleton,14,0,1,2
+2013,4,linwood,3,0,1,1
