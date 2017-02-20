@@ -3,10 +3,11 @@ import time
 import datetime
 
 with open('Crime_Incidents_Condensed.csv', mode='r') as infile:
-	with open('Crime_Incidents_Cleaned_Dist1_All.csv', mode='w') as outfile:
+	with open('Crime_Incidents_Cleaned_All.csv', mode='w') as outfile:
 		writer = csv.writer(outfile)
 		reader = csv.reader(infile)
                 headers = 0
+                c = 1
 		for row in reader:
                     #if we haven't written the headers yet, do that
                     if headers == 0:
@@ -14,6 +15,7 @@ with open('Crime_Incidents_Condensed.csv', mode='r') as infile:
                         writer.writerow(row)
                     #make sure there is a date committed
                     elif row[4]:
+                        c += 1
                         #tstamp = datetime.datetime.strptime(row[4],"%m/%d/%y %H:%M")
                         tstamp = datetime.datetime.strptime(row[4],"%Y-%m-%d %H:%M")
                         block = row[5] + '_' + row[6] + '_' + row[7]
@@ -27,9 +29,9 @@ with open('Crime_Incidents_Condensed.csv', mode='r') as infile:
                         row[20] = tstamp.hour
                         row[21] = block
                         #if row[14] == 2016 or row[14] == 2015 or row[14] == 2014:
-                        if row[9] == '1':
-                            print row
-                            writer.writerow(row)
+                        
+                        writer.writerow(row)
+                    print c
         outfile.close()
 infile.close()
 
